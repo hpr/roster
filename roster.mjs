@@ -48,7 +48,7 @@ ws.onopen = async () => {
   console.log(profile);
   // await getMsg();
   // ws.send('{"t":"d","d":{"a":"n","r":40,"b":{"p":"meetings\\/id2806"}}}');
-  const startLists = await send('{"t":"d","d":{"a":"q","r":2,"b":{"p":"startListsMk2\/id2806","h":""}}}');
+  const startLists = await send('{"t":"d","d":{"a":"q","r":2,"b":{"p":"startListsMk2\/id9470","h":""}}}');
   console.log(JSON.stringify(startLists, null, 1));
 };
 

@@ -1,0 +1,132 @@
+athleteCountryCode,firstName,lastName,price,event
+SWE,Armand,Duplantis,$9320000,Pole Vault
+GRE,Miltiadis,Tentoglou,$7060000,Long Jump
+KOR,Sang-Hyeok,Woo,$7020000,High Jump
+USA,Christopher,Nilsen,$6720000,Pole Vault
+QAT,Mutaz,Barshim,$6120000,High Jump
+ITA,Gianmarco,Tamberi,$5920000,High Jump
+USA,JuVaughn,Harrison,$5840000,High Jump
+SUI,Simon,Ehammer,$5810000,Long Jump
+USA,Shelby,McEwen,$5770000,High Jump
+UKR,Andriy,Protsenko,$5770000,High Jump
+POR,Pedro,Pichardo,$5760000,Triple Jump
+BRA,Thiago,Braz,$5690000,Pole Vault
+CUB,Lázaro,Martínez,$5630000,Triple Jump
+USA,Vernon,Turner,$5510000,High Jump
+SUI,Loïc,Gasch,$5260000,High Jump
+GER,Mateusz,Przybylko,$5230000,High Jump
+FRA,Renaud,Lavillenie,$5160000,Pole Vault
+SWE,Thobias,Montler,$5160000,Long Jump
+NED,Menno,Vloon,$5110000,Pole Vault
+PHI,Ernest,Obiena,$5090000,Pole Vault
+NZL,Hamish,Kerr,$5060000,High Jump
+BRA,Thiago,Moura,$5060000,High Jump
+CUB,Luis Enrique,Zayas,$5030000,High Jump
+IND,Murali,Sreeshankar,$4990000,Long Jump
+BUR,Hugues Fabrice,Zango,$4990000,Triple Jump
+USA,Will,Claye,$4900000,Triple Jump
+GER,Bo,Lita Baehre,$4840000,Pole Vault
+JPN,Tomohiro,Shinno,$4830000,High Jump
+GER,Tobias,Potye,$4740000,High Jump
+ISR,Yonathan,Kapitolnik,$4740000,High Jump
+USA,Darius,Carbin,$4740000,High Jump
+USA,Marquis,Dendy,$4620000,Long Jump
+CAN,Django,Lovett,$4590000,High Jump
+POL,Piotr,Lisek,$4500000,Pole Vault
+JPN,Yuki,Hashioka,$4480000,Long Jump
+AUS,Brandon,Starc,$4440000,High Jump
+SYR,Majd Eddin,Ghazal,$4440000,High Jump
+NOR,Pål,Lillefosse,$4440000,Pole Vault
+ITA,Marco,Fassinotti,$4350000,High Jump
+URU,Emiliano,Lasa,$4350000,Long Jump
+BEL,Ben,Broeders,$4340000,Pole Vault
+FRA,Valentin,Lavillenie,$4340000,Pole Vault
+BAH,Donald,Thomas,$4320000,High Jump
+CHN,Yaming,Zhu,$4320000,Triple Jump
+ITA,Andrea,Dallavalle,$4230000,Triple Jump
+USA,Jacob,Wooten,$4220000,Pole Vault
+MEX,Edgar,Rivera,$4210000,High Jump
+IND,Jeswin Aldrin,Johnson,$4210000,Long Jump
+BEL,Thomas,Carmoy,$4160000,High Jump
+USA,Donald,Scott,$4140000,Triple Jump
+AUS,Joel,Baden,$4130000,High Jump
+BRA,Fernando,Ferreira,$4130000,High Jump
+MAS,Nauraj,Randhawa,$4130000,High Jump
+ZIM,Chengetayi,Mapaya,$4090000,Triple Jump
+FRA,Thibaut,Collet,$4070000,Pole Vault
+NOR,Sondre,Guttormsen,$4070000,Pole Vault
+POL,Norbert,Kobielski,$4050000,High Jump
+GRE,Emmanouil,Karalis,$3980000,Pole Vault
+GER,Oleg,Zernikel,$3980000,Pole Vault
+JPN,Ryoichi,Akamatsu,$3970000,High Jump
+BAH,LaQuan,Nairn,$3930000,Long Jump
+USA,Chris,Carter,$3920000,Triple Jump
+CUB,Maykel,Massó,$3900000,Long Jump
+ESP,Eusebio,Cáceres,$3900000,Long Jump
+GBR,Joel,Clarke-Khan,$3890000,High Jump
+TUR,Ersu,Şaşma,$3890000,Pole Vault
+AUS,Christopher,Mitrevski,$3860000,Long Jump
+IND,Abdulla Aboobacker,Narangolintevida,$3860000,Triple Jump
+BRA,Almir,dos Santos,$3850000,Triple Jump
+FRA,Benjamin,Compaoré,$3840000,Triple Jump
+AUS,Kurtis,Marschall,$3830000,Pole Vault
+ALG,Yasser Mohammed,Triki,$3820000,Triple Jump
+IND,Praveen,Chithravel,$3820000,Triple Jump
+UKR,Oleh,Doroshchuk,$3790000,High Jump
+GER,Torben,Blech,$3750000,Pole Vault
+CHN,Jianan,Wang,$3740000,Long Jump
+GBR,Harry,Coppell,$3730000,Pole Vault
+USA,Chris,Benard,$3730000,Triple Jump
+JAM,Tajay,Gayle,$3710000,Long Jump
+USA,Steffin,McCarter,$3690000,Long Jump
+RSA,Cheswill,Johnson,$3650000,Long Jump
+USA,JuVaughn,Harrison,$3650000,Long Jump
+AUS,Henry,Frayne,$3620000,Long Jump
+CZE,Radek,Juška,$3610000,Long Jump
+PER,Jose,Mandros Martinez,$3610000,Long Jump
+JPN,Natsuki,Yamakawa,$3610000,Long Jump
+CHN,Changzhou,Huang,$3600000,Long Jump
+FRA,Jean-Marc,Pontvianne,$3600000,Triple Jump
+ITA,Emanuel,Ihemeje,$3570000,Triple Jump
+RSA,Jovan,van Vuuren,$3550000,Long Jump
+CUB,Andy Eugenio,Hechavarría,$3540000,Triple Jump
+USA,Luke,Winder,$3490000,Pole Vault
+IND,Muhammed Anees,Yahiya,$3490000,Long Jump
+USA,William,Williams,$3440000,Long Jump
+JAM,Wayne,Pinnock,$3430000,Long Jump
+GER,Max,Heß,$3430000,Triple Jump
+FRA,Enzo,Hodebar,$3430000,Triple Jump
+ESP,Héctor,Santos,$3400000,Long Jump
+USA,Christian,Taylor,$3400000,Triple Jump
+NED,Rutger,Koppelaar,$3340000,Pole Vault
+JPN,Seito,Yamamoto,$3330000,Pole Vault
+CHN,Yaoqing,Fang,$3290000,Triple Jump
+NOR,Simen,Guttormsen,$3270000,Pole Vault
+ITA,Tobia,Bocchi,$3270000,Triple Jump
+IND,Eldhose,Paul,$3260000,Triple Jump
+CHN,Bokai,Huang,$3230000,Pole Vault
+BER,Jah-Nhai,Perinchief,$3210000,Triple Jump
+POR,Tiago,Pereira,$3180000,Triple Jump
+GBR,Ben,Williams,$3160000,Triple Jump
+FIN,Mikko,Paavola,$3150000,Pole Vault
+DMA,Tristan,James,$3100000,Long Jump
+FIN,Kristian,Pulli,$3100000,Long Jump
+USA,Andrew,Irwin,$3020000,Pole Vault
+BRA,Alexandro,Melo,$3010000,Triple Jump
+AUS,Yual,Reath,$2980000,High Jump
+SUI,Benjamin,Gföhler,$2960000,Long Jump
+POL,Robert,Sobera,$2930000,Pole Vault
+ESP,Pablo,Torrijos,$2920000,Triple Jump
+BRA,Augusto,Dutra,$2900000,Pole Vault
+BOT,Thalosang,Tshireletso,$2890000,Long Jump
+ARG,Carlos,Layoy,$2840000,High Jump
+JAM,Jordan,Scott,$2790000,Triple Jump
+ARG,Germán,Chiaraviglio,$2770000,Pole Vault
+KSA,Hussein,Al Hizam,$2730000,Pole Vault
+SLO,Robert,Renner,$2730000,Pole Vault
+BRA,Samory,Fraga,$2610000,Long Jump
+BRA,Mateus,de Sá,$2560000,Triple Jump
+RSA,Ruswahl,Samaai,$2520000,Long Jump
+FIN,Tommi,Holttinen,$2220000,Pole Vault
+CHN,Ruiting,Wu,$2130000,Triple Jump
+OMA,Salim Saleh Mus,Al Yarabi,$1320000,Long Jump

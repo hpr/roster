@@ -1,0 +1,289 @@
+athleteCountryCode,firstName,lastName,price,event
+UGA,Joshua,Cheptegei,$7930000,10000m
+KEN,Nicholas,Kimeli,$7880000,5000m
+KEN,Jacob,Krop,$7800000,5000m
+MAR,Soufiane,El Bakkali,$7620000,3000m Steeplechase
+ETH,Lamecha,Girma,$7530000,3000m Steeplechase
+KEN,Lawrence,Cherono,$7390000,Marathon
+ETH,Berihu,Aregawi,$7220000,5000m
+ETH,Yomif,Kejelcha,$7140000,5000m
+UGA,Joshua,Cheptegei,$7020000,5000m
+ETH,Selemon,Barega,$7000000,5000m
+KEN,Wycliffe,Kinyamal Kisasy,$6810000,800m
+CAN,Marco,Arop,$6700000,800m
+CAN,Mohammed,Ahmed,$6690000,5000m
+GBR,Max,Burgin,$6680000,800m
+USA,Grant,Fisher,$6610000,5000m
+ETH,Tamirat,Tola,$6540000,Marathon
+MAR,Moad,Zahafi,$6470000,800m
+ALG,Djamel,Sedjati,$6470000,800m
+ETH,Mosinet,Geremew,$6450000,Marathon
+NOR,Jakob,Ingebrigtsen,$6430000,1500m
+FRA,Benjamin,Robert,$6400000,800m
+ETH,Telahun,Bekele,$6270000,5000m
+BRN,Birhanu,Balew,$6220000,5000m
+KEN,Emmanuel,Wanyonyi,$6180000,800m
+FRA,Pierre-Ambroise,Bosse,$6170000,800m
+KEN,Conseslus,Kipruto,$6150000,3000m Steeplechase
+BOT,Nijel,Amos,$6140000,800m
+ERI,Hiskel,Tewelde,$6140000,Marathon
+ETH,Getnet,Wale,$6130000,3000m Steeplechase
+ETH,Hailemariyam,Amare,$6130000,3000m Steeplechase
+KEN,Abraham,Kibiwot,$6110000,3000m Steeplechase
+AUS,Peter,Bol,$6100000,800m
+GBR,Marc,Scott,$6100000,5000m
+ETH,Muktar,Edris,$6040000,5000m
+KEN,Abel,Kipsang,$6040000,1500m
+ALG,Yassine,Hathat,$6030000,800m
+ETH,Lelisa,Desisa,$6010000,Marathon
+USA,Grant,Fisher,$6000000,10000m
+UGA,Jacob,Kiplimo,$6000000,10000m
+NOR,Jakob,Ingebrigtsen,$5980000,5000m
+CAN,Mohammed,Ahmed,$5980000,10000m
+NED,Tony,van Diepen,$5940000,800m
+BEL,Bashir,Abdi,$5940000,Marathon
+BRA,Daniel,do Nascimento,$5940000,Marathon
+USA,Bryce,Hoppel,$5890000,800m
+ALG,Slimane,Moula,$5890000,800m
+TAN,Gabriel,Geay,$5890000,Marathon
+NED,Abdi,Nageeye,$5880000,Marathon
+ETH,Seifu,Tura,$5860000,Marathon
+FRA,Gabriel,Tual,$5840000,800m
+POL,Patryk,Dobek,$5810000,800m
+ETH,Deso,Gelmisa,$5800000,Marathon
+ETH,Ermias,Girma,$5700000,800m
+JPN,Kengo,Suzuki,$5610000,Marathon
+KEN,Geoffrey,Kamworor,$5560000,Marathon
+USA,Clayton,Murphy,$5510000,800m
+ERI,Goitom,Kifle,$5510000,Marathon
+AUS,Joseph,Deng,$5500000,800m
+ITA,Ahmed,Abdelwahed,$5500000,3000m Steeplechase
+SWE,Andreas,Kramer,$5490000,800m
+CAN,Brandon,McBride,$5480000,800m
+RSA,Tshepo,Tshite,$5460000,800m
+GBR,Jake,Wightman,$5450000,1500m
+GBR,Kyle,Langford,$5440000,800m
+GBR,Josh,Kerr,$5430000,1500m
+AUS,Oliver,Hoare,$5430000,1500m
+MEX,Jesús,López,$5400000,800m
+USA,Hillary,Bor,$5390000,3000m Steeplechase
+KEN,Leonard,Bett,$5360000,3000m Steeplechase
+ESP,Adrián,Ben,$5340000,800m
+KEN,Emmanuel,Korir,$5330000,800m
+USA,Jonah,Koech,$5300000,800m
+GER,Mohamed,Mohumed,$5280000,5000m
+USA,William,Kincaid,$5260000,5000m
+ETH,Selemon,Barega,$5260000,10000m
+POL,Mateusz,Borkowski,$5250000,800m
+BRA,Thiago,André,$5230000,800m
+GBR,Sam,Atkin,$5220000,5000m
+USA,Evan,Jager,$5220000,3000m Steeplechase
+ETH,Samuel,Tefera,$5210000,1500m
+ESP,Álvaro,de Arriba,$5200000,800m
+IND,Avinash,Sable,$5190000,3000m Steeplechase
+ETH,Tadese,Worku,$5180000,10000m
+ETH,Berihu,Aregawi,$5170000,10000m
+KEN,Noah,Kibet,$5160000,800m
+GBR,Elliot,Giles,$5160000,800m
+ETH,Tolesa,Bodena,$5150000,800m
+GHA,Alex,Amankwa,$5130000,800m
+ERI,Merhawi,Mebrahtu,$5120000,5000m
+JPN,Ryuji,Miura,$5100000,3000m Steeplechase
+ITA,Cătălin,Tecuceanu,$5090000,800m
+MAR,Elhassane,Moujahid,$5090000,800m
+USA,Galen,Rupp,$5080000,Marathon
+TUN,Abdessalem,Ayouni,$5060000,800m
+JAM,Navasky,Anderson,$5030000,800m
+KEN,Benjamin,Kigen,$5020000,3000m Steeplechase
+USA,Brandon,Miller,$5000000,800m
+ETH,Abrham,Sime,$4970000,3000m Steeplechase
+KEN,Timothy,Cheruiyot,$4950000,1500m
+ESP,Mariano,García,$4940000,800m
+AUS,Jack,Rayner,$4940000,5000m
+ESP,Daniel,Arce,$4940000,3000m Steeplechase
+MAR,Abdellatif,El Guesse,$4930000,800m
+POL,Patryk,Sieradzki,$4930000,800m
+ESP,Adel,Mechaal,$4930000,5000m
+GBR,Daniel,Rowden,$4920000,800m
+KEN,Daniel,Ebenyo,$4910000,5000m
+USA,Abdihamid,Nur,$4900000,5000m
+USA,Donavan,Brazier,$4820000,800m
+FRA,Mehdi,Belhadj,$4820000,3000m Steeplechase
+KEN,Barnabas,Kiptum,$4800000,Marathon
+ETH,Teddese,Lemi,$4780000,1500m
+UGA,Peter,Maru,$4770000,5000m
+GER,Frederik,Ruppert,$4770000,3000m Steeplechase
+ESP,Mohamed,Katir,$4770000,1500m
+TUN,Mohamed Amin,Jhinaoui,$4670000,3000m Steeplechase
+GBR,Jake,Heyward,$4670000,1500m
+THA,Kieran,Tuntivate,$4660000,5000m
+ESP,Víctor,Ruiz,$4660000,3000m Steeplechase
+ESP,Sebastián,Martos,$4660000,3000m Steeplechase
+ESP,Saúl,Ordóñez,$4630000,800m
+MAR,Mohamed,El Aaraby,$4610000,Marathon
+ERI,Oqbe,Ruesom,$4590000,Marathon
+MAR,Othmane,El Goumri,$4580000,Marathon
+ISR,Maru,Teferi,$4580000,Marathon
+RSA,Adriaan,Wildschutt,$4560000,5000m
+GER,Marc,Reuther,$4530000,800m
+MAR,Mohamed,Tindouft,$4520000,3000m Steeplechase
+UGA,Oscar,Chelimo,$4510000,5000m
+IRL,Mark,English,$4490000,800m
+MAR,Soufiyan,Bouqantar,$4460000,5000m
+USA,Conner,Mantz,$4460000,5000m
+ERI,Filmon,Ande,$4460000,Marathon
+MAR,Abdellatif,Sadiki,$4460000,1500m
+BDI,Olivier,Irabaruta,$4440000,Marathon
+LUX,Charles,Grethen,$4430000,1500m
+JPN,Hyuga,Endo,$4420000,5000m
+MAR,Hamza,Sahli,$4420000,Marathon
+FIN,Topi,Raitanen,$4410000,3000m Steeplechase
+BEL,Eliott,Crestan,$4400000,800m
+CAN,William,Paulson,$4400000,1500m
+USA,Benard,Keter,$4390000,3000m Steeplechase
+BEL,Ismael,Debjani,$4390000,1500m
+TUN,Ahmed,Jaziri,$4380000,3000m Steeplechase
+USA,Duncan,Hamilton,$4360000,3000m Steeplechase
+ETH,Milkesa,Mengesha,$4350000,10000m
+UGA,Ronald,Musagala,$4350000,1500m
+SWE,Vidar,Johansson,$4320000,3000m Steeplechase
+ETH,Samuel,Zeleke,$4300000,1500m
+ALG,Hichem,Bouchicha,$4290000,3000m Steeplechase
+JPN,Gaku,Hoshi,$4280000,Marathon
+CAN,John,Gay,$4270000,3000m Steeplechase
+MAR,Salaheddine,Yazid,$4270000,3000m Steeplechase
+AUS,Ben,Buckingham,$4260000,3000m Steeplechase
+NZL,George,Beamish,$4230000,5000m
+NZL,Samuel,Tanner,$4230000,1500m
+AUS,Edward,Trippas,$4220000,3000m Steeplechase
+JPN,Ryoma,Aoki,$4220000,3000m Steeplechase
+CAN,Ryan,Smeeton,$4220000,3000m Steeplechase
+DJI,Ibrahim,Hassan,$4220000,Marathon
+CAN,Charles,Philibert-Thiboutot,$4200000,5000m
+ALG,Bilal,Tabti,$4170000,3000m Steeplechase
+KEN,Kumari,Taki,$4160000,1500m
+POL,Michał,Rozmys,$4150000,1500m
+JPN,Yusuke,Nishiyama,$4140000,Marathon
+NZL,Brad,Mathas,$4120000,800m
+MAR,Hicham,Akankam,$4060000,5000m
+USA,Cooper,Teare,$4060000,1500m
+GBR,Neil,Gourley,$4050000,1500m
+ERI,Yemane,Haileselassie,$4040000,3000m Steeplechase
+NOR,Jacob,Boutera,$4040000,3000m Steeplechase
+ISR,Haimro,Almaya,$3990000,Marathon
+BRN,Birhanu,Balew,$3980000,10000m
+JPN,Kosei,Yamaguchi,$3980000,3000m Steeplechase
+USA,Johnny,Gregorek,$3970000,1500m
+ESP,Ignacio,Fontes,$3940000,1500m
+GUA,Luis,Grijalva,$3920000,5000m
+BEL,Ruben,Verheyden,$3920000,1500m
+NOR,Narve,Nordås,$3910000,5000m
+CAN,Jean-Simon,Desgagnés,$3910000,3000m Steeplechase
+KEN,Charles,Simotwo,$3900000,1500m
+RWA,Yves,Nimubona,$3890000,5000m
+DJI,Mohamed,Ibrahim,$3890000,3000m Steeplechase
+FRA,Hassan,Chahdi,$3880000,Marathon
+CAN,Charles,Philibert-Thiboutot,$3870000,1500m
+RSA,Mafori Ryan,Mphahlele,$3860000,1500m
+BRA,Altobelli,Silva,$3830000,3000m Steeplechase
+BIH,Abedin,Mujezinović,$3820000,800m
+AUS,Matthew,Ramsden,$3800000,5000m
+ESP,Mario,García,$3800000,1500m
+NZL,Hamish,Carson,$3780000,5000m
+BEL,Tim,Van De Velde,$3740000,3000m Steeplechase
+BRA,Jose Marcio,Leao Da Silva,$3740000,Marathon
+USA,Joshua,Thompson,$3690000,1500m
+CZE,Filip,Sasínek,$3680000,1500m
+CHN,Jianhua,Peng,$3640000,Marathon
+MAR,Elhassane,Moujahid,$3640000,1500m
+AUS,Jack,Rayner,$3620000,10000m
+COL,Carlos,San Martin,$3620000,3000m Steeplechase
+CAN,Cameron,Proceviat,$3600000,1500m
+KEN,Rodgers,Kwemoi,$3580000,10000m
+AUS,Matthew,Ramsden,$3580000,1500m
+GER,Karl,Bebendorf,$3570000,3000m Steeplechase
+USA,Samuel,Prakel,$3570000,1500m
+URU,Santiago,Catrofe,$3550000,1500m
+IRL,Andrew,Coscoran,$3540000,1500m
+AUS,Ky,Robinson,$3520000,5000m
+BRN,Shumi,Dechasa,$3520000,Marathon
+BOL,Héctor,Garibay Flores,$3510000,Marathon
+ARU,Jethro,Saint-Fleur,$3500000,5000m
+USA,Sean,McGorty,$3500000,10000m
+POR,Isaac,Nader,$3470000,1500m
+GER,Sam,Parsons,$3440000,5000m
+USA,Shadrack,Kipchirchir,$3430000,10000m
+GER,Christoph,Kessler,$3430000,1500m
+ERI,Habtom,Samuel,$3420000,10000m
+UGA,Jackson,Kiprop,$3420000,Marathon
+CAN,Cameron,Levins,$3390000,Marathon
+KOR,Joo-Han,Oh,$3380000,Marathon
+GER,Maximilian,Thorwirth,$3320000,5000m
+ARG,Joaquin,Arbe,$3320000,Marathon
+BEL,Isaac,Kimeli,$3310000,10000m
+USA,Colin,Bennie,$3300000,Marathon
+GBR,Patrick,Dever,$3260000,10000m
+FRA,Jimmy,Gressier,$3240000,10000m
+NOR,Tom,Kårbø,$3240000,3000m Steeplechase
+BRA,Altobelli,Silva,$3230000,5000m
+BDI,Egide,Ntakarutimana,$3230000,10000m
+PAN,Jorge,Castelblanco,$3230000,Marathon
+BRA,Paulo Roberto,Paula,$3220000,Marathon
+BRA,Thiago,André,$3210000,1500m
+BDI,Rodrigue,Kwizera,$3200000,10000m
+KEN,Daniel,Mateiko,$3200000,10000m
+ARG,Federico,Bruno,$3200000,1500m
+NOR,Ferdinand,Edman,$3190000,1500m
+UGA,Stephen,Kissa,$3160000,10000m
+ARG,Eulalio,Munoz,$3160000,Marathon
+SLO,Žan,Rudolf,$3130000,800m
+KEN,Stanley,Waithaka Mburu,$3110000,10000m
+UGA,Filex Malewa,Chemongesi,$3110000,Marathon
+SWE,David,Nilsson,$3100000,Marathon
+MAR,Anass,Essayi,$3100000,1500m
+CAN,Ben,Preisner,$3050000,Marathon
+BEL,Lahsene,Bouchikhi,$3020000,Marathon
+LES,Tebello,Ramakongoana,$3010000,Marathon
+ZIM,Isaac,Mpofu,$3010000,Marathon
+UGA,Fred,Musobo,$2940000,Marathon
+TAN,Emanuel,Gisamoda,$2920000,Marathon
+MGL,Byambajav,Tseveenravdan,$2900000,Marathon
+ESP,Carlos,Mayo,$2860000,10000m
+GBR,Chris,Thompson,$2840000,Marathon
+DEN,Thijs,Nijhuis,$2810000,Marathon
+CHN,Shaohui,Yang,$2800000,Marathon
+URU,Nicolás,Cuestas,$2780000,Marathon
+GER,Tom,Gröschel,$2780000,Marathon
+JPN,Tatsuhiko,Ito,$2760000,10000m
+ISR,Tasama,Moogas,$2740000,Marathon
+USA,Elkanah,Kibet,$2710000,Marathon
+RSA,Tumelo,Motlagale,$2710000,Marathon
+RSA,Precious,Mashele,$2690000,5000m
+MGL,Gantulga,Dambadarjaa,$2690000,Marathon
+USA,Colin,Mickow,$2670000,Marathon
+MAR,Zouhair,Talbi,$2660000,10000m
+MEX,Patricio,Castillo,$2660000,Marathon
+URU,Ernesto Andrés,Zamora,$2650000,Marathon
+RSA,Melikhaya,Frans,$2640000,Marathon
+GBR,Joshua,Griffiths,$2640000,Marathon
+BEL,Thomas,De Bock,$2640000,Marathon
+CHN,Guojian,Dong,$2620000,Marathon
+SUD,Yaseen,Abdalla,$2580000,5000m
+AUS,Stewart,McSweyn,$2560000,1500m
+GBR,Andrew,Butchart,$2510000,5000m
+SSD,Abraham,Guem,$2340000,1500m
+JPN,Ren,Tazawa,$2270000,10000m
+QAT,Adam,Musab,$2240000,1500m
+CAN,Rory,Linkletter,$2220000,Marathon
+ARM,Yervand,Mkrtchyan,$2090000,1500m
+MEX,Dario,Castro,$2030000,Marathon
+USA,Joe,Klecker,$1880000,10000m
+SOM,Abdullahi,Jama Mohamed,$1480000,5000m
+KGZ,Nursultan,Keneshbekov,$1310000,5000m
+ISV,Eduardo Terrance,Garcia,$1220000,Marathon
+CHA,Ali Hissein,Mahamat,$1120000,5000m
+ART,Jamal,Mohammed,$970000,5000m
+MGL,Ser-Od,Bat-Ochir,$950000,Marathon
+NEP,Krishna Bahadur,Basnet,$780000,Marathon
+MAW,Allan Ngitsi,Chirwa,$460000,800m
+TLS,Manuel Belo Amaral,Ataide,$280000,800m
