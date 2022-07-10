@@ -1,129 +1,129 @@
-athleteCountryCode,firstName,lastName,price,event
-SWE,Daniel,Ståhl,$7760000,Discus Throw
-SLO,Kristjan,Čeh,$7320000,Discus Throw
-GRN,Anderson,Peters,$7280000,Javelin Throw
-USA,Ryan,Crouser,$6780000,Shot Put
-POL,Wojciech,Nowicki,$6610000,Hammer Throw
-POL,Paweł,Fajdek,$6390000,Hammer Throw
-NOR,Eivind,Henriksen,$5720000,Hammer Throw
-FRA,Quentin,Bigot,$5700000,Hammer Throw
-USA,Joe,Kovacs,$5670000,Shot Put
-LTU,Mykolas,Alekna,$5570000,Discus Throw
-USA,Rudy,Winkler,$5470000,Hammer Throw
-USA,Daniel,Haugh,$5460000,Hammer Throw
-CZE,Jakub,Vadlejch,$5430000,Javelin Throw
-HUN,Bence,Halász,$5270000,Hammer Throw
-LTU,Andrius,Gudžius,$5210000,Discus Throw
-AUT,Lukas,Weisshaidinger,$4890000,Discus Throw
-IND,Neeraj,Chopra,$4790000,Javelin Throw
-UKR,Mykhaylo,Kokhan,$4730000,Hammer Throw
-FIN,Oliver,Helander,$4720000,Javelin Throw
-BRA,Darlan,Romani,$4700000,Shot Put
-GER,Julian,Weber,$4540000,Javelin Throw
-NZL,Tom,Walsh,$4520000,Shot Put
-USA,Sam,Mattis,$4520000,Discus Throw
-MEX,Diego,del Real,$4460000,Hammer Throw
-TTO,Keshorn,Walcott,$4450000,Javelin Throw
-GRE,Christos,Frantzeskakis,$4340000,Hammer Throw
-MDA,Serghei,Marghiev,$4340000,Hammer Throw
-USA,Sean,Donnelly,$4290000,Hammer Throw
-CHI,Gabriel,Kehr,$4110000,Hammer Throw
-GER,Andreas,Hofmann,$4080000,Javelin Throw
-ESP,Javier,Cienfuegos,$4070000,Hammer Throw
-CAN,Adam,Keenan,$4050000,Hammer Throw
-GRE,Michail,Anastasakis,$4000000,Hammer Throw
-USA,Alex,Young,$4000000,Hammer Throw
-FRA,Yann,Chaussinand,$3960000,Hammer Throw
-GBR,Nick,Miller,$3820000,Hammer Throw
-POL,Marcin,Wrotyński,$3820000,Hammer Throw
-SWE,Ragnar,Carlsson,$3810000,Hammer Throw
-CHI,Humberto,Mansilla,$3670000,Hammer Throw
-JAM,Fedrick,Dacres,$3560000,Discus Throw
-FIN,Aaron,Kangas,$3500000,Hammer Throw
-POL,Konrad,Bukowiecki,$3440000,Shot Put
-CAN,Rowan,Hamilton,$3400000,Hammer Throw
-ISL,Hilmar,Jónsson,$3400000,Hammer Throw
-AUS,Matthew,Denny,$3340000,Discus Throw
-CHI,Claudio,Romero,$3310000,Discus Throw
-SWE,Simon,Pettersson,$3300000,Discus Throw
-GER,Tristan,Schwandke,$3290000,Hammer Throw
-NED,Denzel,Comenentia,$3290000,Hammer Throw
-JAM,Traves,Smikle,$3260000,Discus Throw
-SAM,Alex,Rose,$3240000,Discus Throw
-EGY,Mostafa,Elgamel,$3220000,Hammer Throw
-NOR,Thomas,Mardal,$3180000,Hammer Throw
-CRO,Filip,Mihaljević,$3170000,Shot Put
-FIN,Tuomas,Seppänen,$3160000,Hammer Throw
-USA,Andrew,Evans,$3140000,Discus Throw
-ITA,Nick,Ponzio,$3100000,Shot Put
-CZE,Vítězslav,Veselý,$3100000,Javelin Throw
-USA,Josh,Awotunde,$3080000,Shot Put
-GER,Martin,Wierig,$3010000,Discus Throw
-PAK,Arshad,Nadeem,$2980000,Javelin Throw
-ARG,Joaquín,Gómez,$2970000,Hammer Throw
-GBR,Lawrence,Okoye,$2900000,Discus Throw
-GER,Henrik,Janssen,$2860000,Discus Throw
-GER,Torben,Brandt,$2830000,Discus Throw
-USA,Brian,Williams,$2810000,Discus Throw
-BRA,Allan,Wolski,$2790000,Hammer Throw
-USA,Adrian,Piperi,$2760000,Shot Put
-NZL,Jacko,Gill,$2690000,Shot Put
-CYP,Apostolos,Parellis,$2620000,Discus Throw
-EGY,Ihab,Abdelrahman,$2620000,Javelin Throw
-POL,Michał,Haratyk,$2590000,Shot Put
-MDA,Andrian,Mardare,$2590000,Javelin Throw
-ROU,Alin,Firfirica,$2570000,Discus Throw
-USA,Roger,Steen,$2520000,Shot Put
-NGR,Chukwuebuka,Enekwechi,$2450000,Shot Put
-EGY,Mohamed,Hamza,$2410000,Shot Put
-BEL,Philip,Milanov,$2400000,Discus Throw
-POR,Leandro,Ramos,$2400000,Javelin Throw
-CUB,Mario A.,Díaz,$2360000,Discus Throw
-GBR,Nicholas,Percy,$2270000,Discus Throw
-KEN,Julius,Yego,$2240000,Javelin Throw
-COL,Mauricio,Ortega,$2220000,Discus Throw
-UKR,Roman,Kokoshko,$2200000,Shot Put
-ROU,Alexandru,Novac,$2170000,Javelin Throw
-SWE,Kim,Amb,$2150000,Javelin Throw
-RSA,Victor,Hogan,$2140000,Discus Throw
-ROU,Andrei,Toader,$2080000,Shot Put
-CHI,Lucas,Nervi,$2080000,Discus Throw
-LAT,Patriks,Gailums,$2070000,Javelin Throw
-MEX,Uziel,Muñoz,$2000000,Shot Put
-JAM,Chad,Wright,$1980000,Discus Throw
-FIN,Lassi,Etelätalo,$1980000,Javelin Throw
-ESP,Manu,Quijera,$1970000,Javelin Throw
-GBR,Scott,Lincoln,$1960000,Shot Put
-USA,Tim,Glover,$1940000,Javelin Throw
-ITA,Leonardo,Fabbri,$1920000,Shot Put
-NOR,Marcus,Thomsen,$1870000,Shot Put
-FIN,Toni,Keränen,$1870000,Javelin Throw
-USA,Ethan,Dabbs,$1870000,Javelin Throw
-JPN,Roderick Genki,Dean,$1850000,Javelin Throw
-CZE,Marek,Bárta,$1840000,Discus Throw
-IND,Rohit,Yadav,$1780000,Javelin Throw
-IRI,Ehsan,Hadadi,$1740000,Discus Throw
-BRA,Welington,Morais,$1700000,Shot Put
-POR,Tsanko,Arnaudov,$1690000,Shot Put
-LAT,Rolands,Štrobinders,$1690000,Javelin Throw
-FIN,Toni,Kuusela,$1690000,Javelin Throw
-USA,Curtis,Thompson,$1670000,Javelin Throw
-CRO,Martin,Marković,$1660000,Discus Throw
-AUS,Cameron,McEntyre,$1650000,Javelin Throw
-IND,Tajinderpal,Singh Toor,$1610000,Shot Put
-MEX,David,Carreon,$1590000,Javelin Throw
-CGO,Franck,Elemba,$1520000,Shot Put
-BRA,Willian,Dourado,$1460000,Shot Put
-ESP,Carlos,Tobalina,$1390000,Shot Put
-JPN,Kenji,Ogura,$1380000,Javelin Throw
-GER,Simon,Bayer,$1370000,Shot Put
-RSA,Werner,Visser,$1260000,Discus Throw
-IRL,Eric,Favors,$1220000,Shot Put
-IRL,John,Kelly,$1190000,Shot Put
-RSA,Johan,Grobler,$1190000,Javelin Throw
-NGR,Dotun,Ogundeji,$1170000,Shot Put
-GRE,Nicholas,Scarvelis,$1150000,Shot Put
-AUS,Cruz,Hogan,$1150000,Javelin Throw
-ARG,Ignacio,Carballo,$1110000,Shot Put
-GRE,Anastasios,Latifllari,$1040000,Shot Put
-USA,Michael,Shuey,$1020000,Javelin Throw
+athleteCountryCode,nameAndEvent,price
+SWE,Daniel Ståhl (Discus Throw),$7760000
+SLO,Kristjan Čeh (Discus Throw),$7320000
+GRN,Anderson Peters (Javelin Throw),$7280000
+USA,Ryan Crouser (Shot Put),$6780000
+POL,Wojciech Nowicki (Hammer Throw),$6610000
+POL,Paweł Fajdek (Hammer Throw),$6390000
+NOR,Eivind Henriksen (Hammer Throw),$5720000
+FRA,Quentin Bigot (Hammer Throw),$5700000
+USA,Joe Kovacs (Shot Put),$5670000
+LTU,Mykolas Alekna (Discus Throw),$5570000
+USA,Rudy Winkler (Hammer Throw),$5470000
+USA,Daniel Haugh (Hammer Throw),$5460000
+CZE,Jakub Vadlejch (Javelin Throw),$5430000
+HUN,Bence Halász (Hammer Throw),$5270000
+LTU,Andrius Gudžius (Discus Throw),$5210000
+AUT,Lukas Weisshaidinger (Discus Throw),$4890000
+IND,Neeraj Chopra (Javelin Throw),$4790000
+UKR,Mykhaylo Kokhan (Hammer Throw),$4730000
+FIN,Oliver Helander (Javelin Throw),$4720000
+BRA,Darlan Romani (Shot Put),$4700000
+GER,Julian Weber (Javelin Throw),$4540000
+NZL,Tom Walsh (Shot Put),$4520000
+USA,Sam Mattis (Discus Throw),$4520000
+MEX,Diego del Real (Hammer Throw),$4460000
+TTO,Keshorn Walcott (Javelin Throw),$4450000
+GRE,Christos Frantzeskakis (Hammer Throw),$4340000
+MDA,Serghei Marghiev (Hammer Throw),$4340000
+USA,Sean Donnelly (Hammer Throw),$4290000
+CHI,Gabriel Kehr (Hammer Throw),$4110000
+GER,Andreas Hofmann (Javelin Throw),$4080000
+ESP,Javier Cienfuegos (Hammer Throw),$4070000
+CAN,Adam Keenan (Hammer Throw),$4050000
+GRE,Michail Anastasakis (Hammer Throw),$4000000
+USA,Alex Young (Hammer Throw),$4000000
+FRA,Yann Chaussinand (Hammer Throw),$3960000
+GBR,Nick Miller (Hammer Throw),$3820000
+POL,Marcin Wrotyński (Hammer Throw),$3820000
+SWE,Ragnar Carlsson (Hammer Throw),$3810000
+CHI,Humberto Mansilla (Hammer Throw),$3670000
+JAM,Fedrick Dacres (Discus Throw),$3560000
+FIN,Aaron Kangas (Hammer Throw),$3500000
+POL,Konrad Bukowiecki (Shot Put),$3440000
+CAN,Rowan Hamilton (Hammer Throw),$3400000
+ISL,Hilmar Jónsson (Hammer Throw),$3400000
+AUS,Matthew Denny (Discus Throw),$3340000
+CHI,Claudio Romero (Discus Throw),$3310000
+SWE,Simon Pettersson (Discus Throw),$3300000
+GER,Tristan Schwandke (Hammer Throw),$3290000
+NED,Denzel Comenentia (Hammer Throw),$3290000
+JAM,Traves Smikle (Discus Throw),$3260000
+SAM,Alex Rose (Discus Throw),$3240000
+EGY,Mostafa Elgamel (Hammer Throw),$3220000
+NOR,Thomas Mardal (Hammer Throw),$3180000
+CRO,Filip Mihaljević (Shot Put),$3170000
+FIN,Tuomas Seppänen (Hammer Throw),$3160000
+USA,Andrew Evans (Discus Throw),$3140000
+ITA,Nick Ponzio (Shot Put),$3100000
+CZE,Vítězslav Veselý (Javelin Throw),$3100000
+USA,Josh Awotunde (Shot Put),$3080000
+GER,Martin Wierig (Discus Throw),$3010000
+PAK,Arshad Nadeem (Javelin Throw),$2980000
+ARG,Joaquín Gómez (Hammer Throw),$2970000
+GBR,Lawrence Okoye (Discus Throw),$2900000
+GER,Henrik Janssen (Discus Throw),$2860000
+GER,Torben Brandt (Discus Throw),$2830000
+USA,Brian Williams (Discus Throw),$2810000
+BRA,Allan Wolski (Hammer Throw),$2790000
+USA,Adrian Piperi (Shot Put),$2760000
+NZL,Jacko Gill (Shot Put),$2690000
+CYP,Apostolos Parellis (Discus Throw),$2620000
+EGY,Ihab Abdelrahman (Javelin Throw),$2620000
+POL,Michał Haratyk (Shot Put),$2590000
+MDA,Andrian Mardare (Javelin Throw),$2590000
+ROU,Alin Firfirica (Discus Throw),$2570000
+USA,Roger Steen (Shot Put),$2520000
+NGR,Chukwuebuka Enekwechi (Shot Put),$2450000
+EGY,Mohamed Hamza (Shot Put),$2410000
+BEL,Philip Milanov (Discus Throw),$2400000
+POR,Leandro Ramos (Javelin Throw),$2400000
+CUB,Mario A. Díaz (Discus Throw),$2360000
+GBR,Nicholas Percy (Discus Throw),$2270000
+KEN,Julius Yego (Javelin Throw),$2240000
+COL,Mauricio Ortega (Discus Throw),$2220000
+UKR,Roman Kokoshko (Shot Put),$2200000
+ROU,Alexandru Novac (Javelin Throw),$2170000
+SWE,Kim Amb (Javelin Throw),$2150000
+RSA,Victor Hogan (Discus Throw),$2140000
+ROU,Andrei Toader (Shot Put),$2080000
+CHI,Lucas Nervi (Discus Throw),$2080000
+LAT,Patriks Gailums (Javelin Throw),$2070000
+MEX,Uziel Muñoz (Shot Put),$2000000
+JAM,Chad Wright (Discus Throw),$1980000
+FIN,Lassi Etelätalo (Javelin Throw),$1980000
+ESP,Manu Quijera (Javelin Throw),$1970000
+GBR,Scott Lincoln (Shot Put),$1960000
+USA,Tim Glover (Javelin Throw),$1940000
+ITA,Leonardo Fabbri (Shot Put),$1920000
+NOR,Marcus Thomsen (Shot Put),$1870000
+FIN,Toni Keränen (Javelin Throw),$1870000
+USA,Ethan Dabbs (Javelin Throw),$1870000
+JPN,Roderick Genki Dean (Javelin Throw),$1850000
+CZE,Marek Bárta (Discus Throw),$1840000
+IND,Rohit Yadav (Javelin Throw),$1780000
+IRI,Ehsan Hadadi (Discus Throw),$1740000
+BRA,Welington Morais (Shot Put),$1700000
+POR,Tsanko Arnaudov (Shot Put),$1690000
+LAT,Rolands Štrobinders (Javelin Throw),$1690000
+FIN,Toni Kuusela (Javelin Throw),$1690000
+USA,Curtis Thompson (Javelin Throw),$1670000
+CRO,Martin Marković (Discus Throw),$1660000
+AUS,Cameron McEntyre (Javelin Throw),$1650000
+IND,Tajinderpal Singh Toor (Shot Put),$1610000
+MEX,David Carreon (Javelin Throw),$1590000
+CGO,Franck Elemba (Shot Put),$1520000
+BRA,Willian Dourado (Shot Put),$1460000
+ESP,Carlos Tobalina (Shot Put),$1390000
+JPN,Kenji Ogura (Javelin Throw),$1380000
+GER,Simon Bayer (Shot Put),$1370000
+RSA,Werner Visser (Discus Throw),$1260000
+IRL,Eric Favors (Shot Put),$1220000
+IRL,John Kelly (Shot Put),$1190000
+RSA,Johan Grobler (Javelin Throw),$1190000
+NGR,Dotun Ogundeji (Shot Put),$1170000
+GRE,Nicholas Scarvelis (Shot Put),$1150000
+AUS,Cruz Hogan (Javelin Throw),$1150000
+ARG,Ignacio Carballo (Shot Put),$1110000
+GRE,Anastasios Latifllari (Shot Put),$1040000
+USA,Michael Shuey (Javelin Throw),$1020000

@@ -1,289 +1,389 @@
-athleteCountryCode,firstName,lastName,price,event
-UGA,Joshua,Cheptegei,$7930000,10000m
-KEN,Nicholas,Kimeli,$7880000,5000m
-KEN,Jacob,Krop,$7800000,5000m
-MAR,Soufiane,El Bakkali,$7620000,3000m Steeplechase
-ETH,Lamecha,Girma,$7530000,3000m Steeplechase
-KEN,Lawrence,Cherono,$7390000,Marathon
-ETH,Berihu,Aregawi,$7220000,5000m
-ETH,Yomif,Kejelcha,$7140000,5000m
-UGA,Joshua,Cheptegei,$7020000,5000m
-ETH,Selemon,Barega,$7000000,5000m
-KEN,Wycliffe,Kinyamal Kisasy,$6810000,800m
-CAN,Marco,Arop,$6700000,800m
-CAN,Mohammed,Ahmed,$6690000,5000m
-GBR,Max,Burgin,$6680000,800m
-USA,Grant,Fisher,$6610000,5000m
-ETH,Tamirat,Tola,$6540000,Marathon
-MAR,Moad,Zahafi,$6470000,800m
-ALG,Djamel,Sedjati,$6470000,800m
-ETH,Mosinet,Geremew,$6450000,Marathon
-NOR,Jakob,Ingebrigtsen,$6430000,1500m
-FRA,Benjamin,Robert,$6400000,800m
-ETH,Telahun,Bekele,$6270000,5000m
-BRN,Birhanu,Balew,$6220000,5000m
-KEN,Emmanuel,Wanyonyi,$6180000,800m
-FRA,Pierre-Ambroise,Bosse,$6170000,800m
-KEN,Conseslus,Kipruto,$6150000,3000m Steeplechase
-BOT,Nijel,Amos,$6140000,800m
-ERI,Hiskel,Tewelde,$6140000,Marathon
-ETH,Getnet,Wale,$6130000,3000m Steeplechase
-ETH,Hailemariyam,Amare,$6130000,3000m Steeplechase
-KEN,Abraham,Kibiwot,$6110000,3000m Steeplechase
-AUS,Peter,Bol,$6100000,800m
-GBR,Marc,Scott,$6100000,5000m
-ETH,Muktar,Edris,$6040000,5000m
-KEN,Abel,Kipsang,$6040000,1500m
-ALG,Yassine,Hathat,$6030000,800m
-ETH,Lelisa,Desisa,$6010000,Marathon
-USA,Grant,Fisher,$6000000,10000m
-UGA,Jacob,Kiplimo,$6000000,10000m
-NOR,Jakob,Ingebrigtsen,$5980000,5000m
-CAN,Mohammed,Ahmed,$5980000,10000m
-NED,Tony,van Diepen,$5940000,800m
-BEL,Bashir,Abdi,$5940000,Marathon
-BRA,Daniel,do Nascimento,$5940000,Marathon
-USA,Bryce,Hoppel,$5890000,800m
-ALG,Slimane,Moula,$5890000,800m
-TAN,Gabriel,Geay,$5890000,Marathon
-NED,Abdi,Nageeye,$5880000,Marathon
-ETH,Seifu,Tura,$5860000,Marathon
-FRA,Gabriel,Tual,$5840000,800m
-POL,Patryk,Dobek,$5810000,800m
-ETH,Deso,Gelmisa,$5800000,Marathon
-ETH,Ermias,Girma,$5700000,800m
-JPN,Kengo,Suzuki,$5610000,Marathon
-KEN,Geoffrey,Kamworor,$5560000,Marathon
-USA,Clayton,Murphy,$5510000,800m
-ERI,Goitom,Kifle,$5510000,Marathon
-AUS,Joseph,Deng,$5500000,800m
-ITA,Ahmed,Abdelwahed,$5500000,3000m Steeplechase
-SWE,Andreas,Kramer,$5490000,800m
-CAN,Brandon,McBride,$5480000,800m
-RSA,Tshepo,Tshite,$5460000,800m
-GBR,Jake,Wightman,$5450000,1500m
-GBR,Kyle,Langford,$5440000,800m
-GBR,Josh,Kerr,$5430000,1500m
-AUS,Oliver,Hoare,$5430000,1500m
-MEX,Jesús,López,$5400000,800m
-USA,Hillary,Bor,$5390000,3000m Steeplechase
-KEN,Leonard,Bett,$5360000,3000m Steeplechase
-ESP,Adrián,Ben,$5340000,800m
-KEN,Emmanuel,Korir,$5330000,800m
-USA,Jonah,Koech,$5300000,800m
-GER,Mohamed,Mohumed,$5280000,5000m
-USA,William,Kincaid,$5260000,5000m
-ETH,Selemon,Barega,$5260000,10000m
-POL,Mateusz,Borkowski,$5250000,800m
-BRA,Thiago,André,$5230000,800m
-GBR,Sam,Atkin,$5220000,5000m
-USA,Evan,Jager,$5220000,3000m Steeplechase
-ETH,Samuel,Tefera,$5210000,1500m
-ESP,Álvaro,de Arriba,$5200000,800m
-IND,Avinash,Sable,$5190000,3000m Steeplechase
-ETH,Tadese,Worku,$5180000,10000m
-ETH,Berihu,Aregawi,$5170000,10000m
-KEN,Noah,Kibet,$5160000,800m
-GBR,Elliot,Giles,$5160000,800m
-ETH,Tolesa,Bodena,$5150000,800m
-GHA,Alex,Amankwa,$5130000,800m
-ERI,Merhawi,Mebrahtu,$5120000,5000m
-JPN,Ryuji,Miura,$5100000,3000m Steeplechase
-ITA,Cătălin,Tecuceanu,$5090000,800m
-MAR,Elhassane,Moujahid,$5090000,800m
-USA,Galen,Rupp,$5080000,Marathon
-TUN,Abdessalem,Ayouni,$5060000,800m
-JAM,Navasky,Anderson,$5030000,800m
-KEN,Benjamin,Kigen,$5020000,3000m Steeplechase
-USA,Brandon,Miller,$5000000,800m
-ETH,Abrham,Sime,$4970000,3000m Steeplechase
-KEN,Timothy,Cheruiyot,$4950000,1500m
-ESP,Mariano,García,$4940000,800m
-AUS,Jack,Rayner,$4940000,5000m
-ESP,Daniel,Arce,$4940000,3000m Steeplechase
-MAR,Abdellatif,El Guesse,$4930000,800m
-POL,Patryk,Sieradzki,$4930000,800m
-ESP,Adel,Mechaal,$4930000,5000m
-GBR,Daniel,Rowden,$4920000,800m
-KEN,Daniel,Ebenyo,$4910000,5000m
-USA,Abdihamid,Nur,$4900000,5000m
-USA,Donavan,Brazier,$4820000,800m
-FRA,Mehdi,Belhadj,$4820000,3000m Steeplechase
-KEN,Barnabas,Kiptum,$4800000,Marathon
-ETH,Teddese,Lemi,$4780000,1500m
-UGA,Peter,Maru,$4770000,5000m
-GER,Frederik,Ruppert,$4770000,3000m Steeplechase
-ESP,Mohamed,Katir,$4770000,1500m
-TUN,Mohamed Amin,Jhinaoui,$4670000,3000m Steeplechase
-GBR,Jake,Heyward,$4670000,1500m
-THA,Kieran,Tuntivate,$4660000,5000m
-ESP,Víctor,Ruiz,$4660000,3000m Steeplechase
-ESP,Sebastián,Martos,$4660000,3000m Steeplechase
-ESP,Saúl,Ordóñez,$4630000,800m
-MAR,Mohamed,El Aaraby,$4610000,Marathon
-ERI,Oqbe,Ruesom,$4590000,Marathon
-MAR,Othmane,El Goumri,$4580000,Marathon
-ISR,Maru,Teferi,$4580000,Marathon
-RSA,Adriaan,Wildschutt,$4560000,5000m
-GER,Marc,Reuther,$4530000,800m
-MAR,Mohamed,Tindouft,$4520000,3000m Steeplechase
-UGA,Oscar,Chelimo,$4510000,5000m
-IRL,Mark,English,$4490000,800m
-MAR,Soufiyan,Bouqantar,$4460000,5000m
-USA,Conner,Mantz,$4460000,5000m
-ERI,Filmon,Ande,$4460000,Marathon
-MAR,Abdellatif,Sadiki,$4460000,1500m
-BDI,Olivier,Irabaruta,$4440000,Marathon
-LUX,Charles,Grethen,$4430000,1500m
-JPN,Hyuga,Endo,$4420000,5000m
-MAR,Hamza,Sahli,$4420000,Marathon
-FIN,Topi,Raitanen,$4410000,3000m Steeplechase
-BEL,Eliott,Crestan,$4400000,800m
-CAN,William,Paulson,$4400000,1500m
-USA,Benard,Keter,$4390000,3000m Steeplechase
-BEL,Ismael,Debjani,$4390000,1500m
-TUN,Ahmed,Jaziri,$4380000,3000m Steeplechase
-USA,Duncan,Hamilton,$4360000,3000m Steeplechase
-ETH,Milkesa,Mengesha,$4350000,10000m
-UGA,Ronald,Musagala,$4350000,1500m
-SWE,Vidar,Johansson,$4320000,3000m Steeplechase
-ETH,Samuel,Zeleke,$4300000,1500m
-ALG,Hichem,Bouchicha,$4290000,3000m Steeplechase
-JPN,Gaku,Hoshi,$4280000,Marathon
-CAN,John,Gay,$4270000,3000m Steeplechase
-MAR,Salaheddine,Yazid,$4270000,3000m Steeplechase
-AUS,Ben,Buckingham,$4260000,3000m Steeplechase
-NZL,George,Beamish,$4230000,5000m
-NZL,Samuel,Tanner,$4230000,1500m
-AUS,Edward,Trippas,$4220000,3000m Steeplechase
-JPN,Ryoma,Aoki,$4220000,3000m Steeplechase
-CAN,Ryan,Smeeton,$4220000,3000m Steeplechase
-DJI,Ibrahim,Hassan,$4220000,Marathon
-CAN,Charles,Philibert-Thiboutot,$4200000,5000m
-ALG,Bilal,Tabti,$4170000,3000m Steeplechase
-KEN,Kumari,Taki,$4160000,1500m
-POL,Michał,Rozmys,$4150000,1500m
-JPN,Yusuke,Nishiyama,$4140000,Marathon
-NZL,Brad,Mathas,$4120000,800m
-MAR,Hicham,Akankam,$4060000,5000m
-USA,Cooper,Teare,$4060000,1500m
-GBR,Neil,Gourley,$4050000,1500m
-ERI,Yemane,Haileselassie,$4040000,3000m Steeplechase
-NOR,Jacob,Boutera,$4040000,3000m Steeplechase
-ISR,Haimro,Almaya,$3990000,Marathon
-BRN,Birhanu,Balew,$3980000,10000m
-JPN,Kosei,Yamaguchi,$3980000,3000m Steeplechase
-USA,Johnny,Gregorek,$3970000,1500m
-ESP,Ignacio,Fontes,$3940000,1500m
-GUA,Luis,Grijalva,$3920000,5000m
-BEL,Ruben,Verheyden,$3920000,1500m
-NOR,Narve,Nordås,$3910000,5000m
-CAN,Jean-Simon,Desgagnés,$3910000,3000m Steeplechase
-KEN,Charles,Simotwo,$3900000,1500m
-RWA,Yves,Nimubona,$3890000,5000m
-DJI,Mohamed,Ibrahim,$3890000,3000m Steeplechase
-FRA,Hassan,Chahdi,$3880000,Marathon
-CAN,Charles,Philibert-Thiboutot,$3870000,1500m
-RSA,Mafori Ryan,Mphahlele,$3860000,1500m
-BRA,Altobelli,Silva,$3830000,3000m Steeplechase
-BIH,Abedin,Mujezinović,$3820000,800m
-AUS,Matthew,Ramsden,$3800000,5000m
-ESP,Mario,García,$3800000,1500m
-NZL,Hamish,Carson,$3780000,5000m
-BEL,Tim,Van De Velde,$3740000,3000m Steeplechase
-BRA,Jose Marcio,Leao Da Silva,$3740000,Marathon
-USA,Joshua,Thompson,$3690000,1500m
-CZE,Filip,Sasínek,$3680000,1500m
-CHN,Jianhua,Peng,$3640000,Marathon
-MAR,Elhassane,Moujahid,$3640000,1500m
-AUS,Jack,Rayner,$3620000,10000m
-COL,Carlos,San Martin,$3620000,3000m Steeplechase
-CAN,Cameron,Proceviat,$3600000,1500m
-KEN,Rodgers,Kwemoi,$3580000,10000m
-AUS,Matthew,Ramsden,$3580000,1500m
-GER,Karl,Bebendorf,$3570000,3000m Steeplechase
-USA,Samuel,Prakel,$3570000,1500m
-URU,Santiago,Catrofe,$3550000,1500m
-IRL,Andrew,Coscoran,$3540000,1500m
-AUS,Ky,Robinson,$3520000,5000m
-BRN,Shumi,Dechasa,$3520000,Marathon
-BOL,Héctor,Garibay Flores,$3510000,Marathon
-ARU,Jethro,Saint-Fleur,$3500000,5000m
-USA,Sean,McGorty,$3500000,10000m
-POR,Isaac,Nader,$3470000,1500m
-GER,Sam,Parsons,$3440000,5000m
-USA,Shadrack,Kipchirchir,$3430000,10000m
-GER,Christoph,Kessler,$3430000,1500m
-ERI,Habtom,Samuel,$3420000,10000m
-UGA,Jackson,Kiprop,$3420000,Marathon
-CAN,Cameron,Levins,$3390000,Marathon
-KOR,Joo-Han,Oh,$3380000,Marathon
-GER,Maximilian,Thorwirth,$3320000,5000m
-ARG,Joaquin,Arbe,$3320000,Marathon
-BEL,Isaac,Kimeli,$3310000,10000m
-USA,Colin,Bennie,$3300000,Marathon
-GBR,Patrick,Dever,$3260000,10000m
-FRA,Jimmy,Gressier,$3240000,10000m
-NOR,Tom,Kårbø,$3240000,3000m Steeplechase
-BRA,Altobelli,Silva,$3230000,5000m
-BDI,Egide,Ntakarutimana,$3230000,10000m
-PAN,Jorge,Castelblanco,$3230000,Marathon
-BRA,Paulo Roberto,Paula,$3220000,Marathon
-BRA,Thiago,André,$3210000,1500m
-BDI,Rodrigue,Kwizera,$3200000,10000m
-KEN,Daniel,Mateiko,$3200000,10000m
-ARG,Federico,Bruno,$3200000,1500m
-NOR,Ferdinand,Edman,$3190000,1500m
-UGA,Stephen,Kissa,$3160000,10000m
-ARG,Eulalio,Munoz,$3160000,Marathon
-SLO,Žan,Rudolf,$3130000,800m
-KEN,Stanley,Waithaka Mburu,$3110000,10000m
-UGA,Filex Malewa,Chemongesi,$3110000,Marathon
-SWE,David,Nilsson,$3100000,Marathon
-MAR,Anass,Essayi,$3100000,1500m
-CAN,Ben,Preisner,$3050000,Marathon
-BEL,Lahsene,Bouchikhi,$3020000,Marathon
-LES,Tebello,Ramakongoana,$3010000,Marathon
-ZIM,Isaac,Mpofu,$3010000,Marathon
-UGA,Fred,Musobo,$2940000,Marathon
-TAN,Emanuel,Gisamoda,$2920000,Marathon
-MGL,Byambajav,Tseveenravdan,$2900000,Marathon
-ESP,Carlos,Mayo,$2860000,10000m
-GBR,Chris,Thompson,$2840000,Marathon
-DEN,Thijs,Nijhuis,$2810000,Marathon
-CHN,Shaohui,Yang,$2800000,Marathon
-URU,Nicolás,Cuestas,$2780000,Marathon
-GER,Tom,Gröschel,$2780000,Marathon
-JPN,Tatsuhiko,Ito,$2760000,10000m
-ISR,Tasama,Moogas,$2740000,Marathon
-USA,Elkanah,Kibet,$2710000,Marathon
-RSA,Tumelo,Motlagale,$2710000,Marathon
-RSA,Precious,Mashele,$2690000,5000m
-MGL,Gantulga,Dambadarjaa,$2690000,Marathon
-USA,Colin,Mickow,$2670000,Marathon
-MAR,Zouhair,Talbi,$2660000,10000m
-MEX,Patricio,Castillo,$2660000,Marathon
-URU,Ernesto Andrés,Zamora,$2650000,Marathon
-RSA,Melikhaya,Frans,$2640000,Marathon
-GBR,Joshua,Griffiths,$2640000,Marathon
-BEL,Thomas,De Bock,$2640000,Marathon
-CHN,Guojian,Dong,$2620000,Marathon
-SUD,Yaseen,Abdalla,$2580000,5000m
-AUS,Stewart,McSweyn,$2560000,1500m
-GBR,Andrew,Butchart,$2510000,5000m
-SSD,Abraham,Guem,$2340000,1500m
-JPN,Ren,Tazawa,$2270000,10000m
-QAT,Adam,Musab,$2240000,1500m
-CAN,Rory,Linkletter,$2220000,Marathon
-ARM,Yervand,Mkrtchyan,$2090000,1500m
-MEX,Dario,Castro,$2030000,Marathon
-USA,Joe,Klecker,$1880000,10000m
-SOM,Abdullahi,Jama Mohamed,$1480000,5000m
-KGZ,Nursultan,Keneshbekov,$1310000,5000m
-ISV,Eduardo Terrance,Garcia,$1220000,Marathon
-CHA,Ali Hissein,Mahamat,$1120000,5000m
-ART,Jamal,Mohammed,$970000,5000m
-MGL,Ser-Od,Bat-Ochir,$950000,Marathon
-NEP,Krishna Bahadur,Basnet,$780000,Marathon
-MAW,Allan Ngitsi,Chirwa,$460000,800m
-TLS,Manuel Belo Amaral,Ataide,$280000,800m
+athleteCountryCode,nameAndEvent,price
+UGA,Joshua Cheptegei (10000m),$7930000
+KEN,Nicholas Kimeli (5000m),$7880000
+KEN,Jacob Krop (5000m),$7800000
+MAR,Soufiane El Bakkali (3000m Steeplechase),$7620000
+ETH,Lamecha Girma (3000m Steeplechase),$7530000
+KEN,Lawrence Cherono (Marathon),$7390000
+ETH,Berihu Aregawi (5000m),$7220000
+ETH,Yomif Kejelcha (5000m),$7140000
+UGA,Joshua Cheptegei (5000m),$7020000
+ETH,Selemon Barega (5000m),$7000000
+JPN,Masatora Kawano (35K Racewalk),$6990000
+KEN,Wycliffe Kinyamal Kisasy (800m),$6810000
+JPN,Daisuke Matsunaga (35K Racewalk),$6790000
+JPN,Tomohiro Noda (35K Racewalk),$6730000
+CAN,Marco Arop (800m),$6700000
+CAN,Mohammed Ahmed (5000m),$6690000
+GBR,Max Burgin (800m),$6680000
+USA,Grant Fisher (5000m),$6610000
+ETH,Tamirat Tola (Marathon),$6540000
+ESP,Miguel López (35K Racewalk),$6500000
+MAR,Moad Zahafi (800m),$6470000
+ALG,Djamel Sedjati (800m),$6470000
+ETH,Mosinet Geremew (Marathon),$6450000
+NOR,Jakob Ingebrigtsen (1500m),$6430000
+FRA,Benjamin Robert (800m),$6400000
+ETH,Telahun Bekele (5000m),$6270000
+BRN,Birhanu Balew (5000m),$6220000
+KEN,Emmanuel Wanyonyi (800m),$6180000
+FRA,Pierre-Ambroise Bosse (800m),$6170000
+KEN,Conseslus Kipruto (3000m Steeplechase),$6150000
+BOT,Nijel Amos (800m),$6140000
+ERI,Hiskel Tewelde (Marathon),$6140000
+ETH,Getnet Wale (3000m Steeplechase),$6130000
+ETH,Hailemariyam Amare (3000m Steeplechase),$6130000
+KEN,Abraham Kibiwot (3000m Steeplechase),$6110000
+AUS,Peter Bol (800m),$6100000
+GBR,Marc Scott (5000m),$6100000
+ETH,Muktar Edris (5000m),$6040000
+KEN,Abel Kipsang (1500m),$6040000
+ALG,Yassine Hathat (800m),$6030000
+ITA,Massimo Stano (35K Racewalk),$6020000
+ETH,Lelisa Desisa (Marathon),$6010000
+USA,Grant Fisher (10000m),$6000000
+UGA,Jacob Kiplimo (10000m),$6000000
+NOR,Jakob Ingebrigtsen (5000m),$5980000
+CAN,Mohammed Ahmed (10000m),$5980000
+NED,Tony van Diepen (800m),$5940000
+BEL,Bashir Abdi (Marathon),$5940000
+BRA,Daniel do Nascimento (Marathon),$5940000
+MEX,José Luis Doctor (35K Racewalk),$5930000
+USA,Bryce Hoppel (800m),$5890000
+ALG,Slimane Moula (800m),$5890000
+TAN,Gabriel Geay (Marathon),$5890000
+NED,Abdi Nageeye (Marathon),$5880000
+CHN,Xianghong He (35K Racewalk),$5870000
+ETH,Seifu Tura (Marathon),$5860000
+FRA,Gabriel Tual (800m),$5840000
+POL,Patryk Dobek (800m),$5810000
+ETH,Deso Gelmisa (Marathon),$5800000
+GER,Christopher Linke (35K Racewalk),$5730000
+FRA,Aurélien Quinion (35K Racewalk),$5720000
+ETH,Ermias Girma (800m),$5700000
+MEX,Ricardo Ortiz (35K Racewalk),$5680000
+JPN,Kengo Suzuki (Marathon),$5610000
+KEN,Geoffrey Kamworor (Marathon),$5560000
+USA,Clayton Murphy (800m),$5510000
+ERI,Goitom Kifle (Marathon),$5510000
+AUS,Joseph Deng (800m),$5500000
+ITA,Ahmed Abdelwahed (3000m Steeplechase),$5500000
+SWE,Andreas Kramer (800m),$5490000
+CAN,Brandon McBride (800m),$5480000
+RSA,Tshepo Tshite (800m),$5460000
+COL,José Montaña (35K Racewalk),$5460000
+GBR,Jake Wightman (1500m),$5450000
+GBR,Kyle Langford (800m),$5440000
+GBR,Josh Kerr (1500m),$5430000
+AUS,Oliver Hoare (1500m),$5430000
+MEX,Jesús López (800m),$5400000
+USA,Hillary Bor (3000m Steeplechase),$5390000
+GER,Carl Dohmann (35K Racewalk),$5390000
+KEN,Leonard Bett (3000m Steeplechase),$5360000
+ESP,Adrián Ben (800m),$5340000
+CHN,Yangben Zhaxi (35K Racewalk),$5340000
+MEX,Ever Jair Palma Olivares (35K Racewalk),$5340000
+KEN,Emmanuel Korir (800m),$5330000
+USA,Jonah Koech (800m),$5300000
+GER,Mohamed Mohumed (5000m),$5280000
+USA,William Kincaid (5000m),$5260000
+ETH,Selemon Barega (10000m),$5260000
+ECU,Andrés Chocho (35K Racewalk),$5260000
+FIN,Aleksi Ojala (35K Racewalk),$5260000
+POL,Mateusz Borkowski (800m),$5250000
+GUA,Érick Barrondo (35K Racewalk),$5250000
+BRA,Thiago André (800m),$5230000
+JPN,Koki Ikeda (20K Racewalk),$5230000
+GBR,Sam Atkin (5000m),$5220000
+USA,Evan Jager (3000m Steeplechase),$5220000
+ETH,Samuel Tefera (1500m),$5210000
+ESP,Álvaro de Arriba (800m),$5200000
+IND,Avinash Sable (3000m Steeplechase),$5190000
+GER,Karl Junghannss (35K Racewalk),$5190000
+ETH,Tadese Worku (10000m),$5180000
+ETH,Berihu Aregawi (10000m),$5170000
+KEN,Noah Kibet (800m),$5160000
+GBR,Elliot Giles (800m),$5160000
+ETH,Tolesa Bodena (800m),$5150000
+CHN,Hao Xu (35K Racewalk),$5140000
+GHA,Alex Amankwa (800m),$5130000
+ERI,Merhawi Mebrahtu (5000m),$5120000
+JPN,Ryuji Miura (3000m Steeplechase),$5100000
+ITA,Cătălin Tecuceanu (800m),$5090000
+MAR,Elhassane Moujahid (800m),$5090000
+USA,Galen Rupp (Marathon),$5080000
+JPN,Eiki Takahashi (20K Racewalk),$5070000
+TUN,Abdessalem Ayouni (800m),$5060000
+JAM,Navasky Anderson (800m),$5030000
+COL,Éider Arévalo (35K Racewalk),$5030000
+KEN,Benjamin Kigen (3000m Steeplechase),$5020000
+USA,Brandon Miller (800m),$5000000
+ETH,Abrham Sime (3000m Steeplechase),$4970000
+KEN,Timothy Cheruiyot (1500m),$4950000
+ESP,Mariano García (800m),$4940000
+AUS,Jack Rayner (5000m),$4940000
+ESP,Daniel Arce (3000m Steeplechase),$4940000
+MAR,Abdellatif El Guesse (800m),$4930000
+POL,Patryk Sieradzki (800m),$4930000
+ESP,Adel Mechaal (5000m),$4930000
+GBR,Daniel Rowden (800m),$4920000
+KEN,Daniel Ebenyo (5000m),$4910000
+USA,Abdihamid Nur (5000m),$4900000
+ECU,Brian Daniel Pintado (35K Racewalk),$4880000
+ESP,Daniel Chamosa (35K Racewalk),$4860000
+ESP,Álvaro Lopez (35K Racewalk),$4860000
+USA,Donavan Brazier (800m),$4820000
+FRA,Mehdi Belhadj (3000m Steeplechase),$4820000
+RSA,Wayne Snyman (35K Racewalk),$4820000
+KEN,Barnabas Kiptum (Marathon),$4800000
+ETH,Teddese Lemi (1500m),$4780000
+UGA,Peter Maru (5000m),$4770000
+GER,Frederik Ruppert (3000m Steeplechase),$4770000
+ESP,Mohamed Katir (1500m),$4770000
+BRA,Caio Bonfim (20K Racewalk),$4740000
+TUN,Mohamed Amin Jhinaoui (3000m Steeplechase),$4670000
+POR,João Vieira (35K Racewalk),$4670000
+GBR,Jake Heyward (1500m),$4670000
+THA,Kieran Tuntivate (5000m),$4660000
+ESP,Víctor Ruiz (3000m Steeplechase),$4660000
+ESP,Sebastián Martos (3000m Steeplechase),$4660000
+ESP,Saúl Ordóñez (800m),$4630000
+MAR,Mohamed El Aaraby (Marathon),$4610000
+ERI,Oqbe Ruesom (Marathon),$4590000
+MAR,Othmane El Goumri (Marathon),$4580000
+ISR,Maru Teferi (Marathon),$4580000
+RSA,Adriaan Wildschutt (5000m),$4560000
+SVK,Miroslav Úradník (35K Racewalk),$4550000
+GER,Marc Reuther (800m),$4530000
+MAR,Mohamed Tindouft (3000m Steeplechase),$4520000
+UGA,Oscar Chelimo (5000m),$4510000
+BRA,Caio Bonfim (35K Racewalk),$4510000
+IRL,Mark English (800m),$4490000
+MAR,Soufiyan Bouqantar (5000m),$4460000
+USA,Conner Mantz (5000m),$4460000
+ERI,Filmon Ande (Marathon),$4460000
+MAR,Abdellatif Sadiki (1500m),$4460000
+BDI,Olivier Irabaruta (Marathon),$4440000
+LUX,Charles Grethen (1500m),$4430000
+JPN,Hyuga Endo (5000m),$4420000
+MAR,Hamza Sahli (Marathon),$4420000
+FIN,Topi Raitanen (3000m Steeplechase),$4410000
+BEL,Eliott Crestan (800m),$4400000
+CAN,William Paulson (1500m),$4400000
+USA,Benard Keter (3000m Steeplechase),$4390000
+BEL,Ismael Debjani (1500m),$4390000
+TUN,Ahmed Jaziri (3000m Steeplechase),$4380000
+USA,Duncan Hamilton (3000m Steeplechase),$4360000
+SWE,Perseus Karlström (20K Racewalk),$4360000
+ETH,Milkesa Mengesha (10000m),$4350000
+UGA,Ronald Musagala (1500m),$4350000
+SWE,Vidar Johansson (3000m Steeplechase),$4320000
+ETH,Samuel Zeleke (1500m),$4300000
+ALG,Hichem Bouchicha (3000m Steeplechase),$4290000
+JPN,Gaku Hoshi (Marathon),$4280000
+CAN,John Gay (3000m Steeplechase),$4270000
+MAR,Salaheddine Yazid (3000m Steeplechase),$4270000
+AUS,Ben Buckingham (3000m Steeplechase),$4260000
+SWE,Perseus Karlström (35K Racewalk),$4250000
+NZL,George Beamish (5000m),$4230000
+NZL,Samuel Tanner (1500m),$4230000
+AUS,Edward Trippas (3000m Steeplechase),$4220000
+JPN,Ryoma Aoki (3000m Steeplechase),$4220000
+CAN,Ryan Smeeton (3000m Steeplechase),$4220000
+DJI,Ibrahim Hassan (Marathon),$4220000
+CAN,Charles Philibert-Thiboutot (5000m),$4200000
+ALG,Bilal Tabti (3000m Steeplechase),$4170000
+KEN,Kumari Taki (1500m),$4160000
+POL,Michał Rozmys (1500m),$4150000
+JPN,Yusuke Nishiyama (Marathon),$4140000
+NZL,Brad Mathas (800m),$4120000
+FIN,Veli-Matti Partanen (35K Racewalk),$4120000
+CHN,Lihong Cui (20K Racewalk),$4090000
+MAR,Hicham Akankam (5000m),$4060000
+USA,Cooper Teare (1500m),$4060000
+GBR,Neil Gourley (1500m),$4050000
+ERI,Yemane Haileselassie (3000m Steeplechase),$4040000
+NOR,Jacob Boutera (3000m Steeplechase),$4040000
+ISR,Haimro Almaya (Marathon),$3990000
+BRN,Birhanu Balew (10000m),$3980000
+JPN,Kosei Yamaguchi (3000m Steeplechase),$3980000
+USA,Johnny Gregorek (1500m),$3970000
+ESP,Ignacio Fontes (1500m),$3940000
+GUA,Luis Grijalva (5000m),$3920000
+BEL,Ruben Verheyden (1500m),$3920000
+NOR,Narve Nordås (5000m),$3910000
+CAN,Jean-Simon Desgagnés (3000m Steeplechase),$3910000
+ESP,Diego García Carrera (20K Racewalk),$3910000
+POL,Artur Brzozowski (35K Racewalk),$3900000
+KEN,Charles Simotwo (1500m),$3900000
+RWA,Yves Nimubona (5000m),$3890000
+DJI,Mohamed Ibrahim (3000m Steeplechase),$3890000
+FRA,Hassan Chahdi (Marathon),$3880000
+IRL,David Kenny (20K Racewalk),$3870000
+CAN,Charles Philibert-Thiboutot (1500m),$3870000
+ESP,Álvaro Martín (20K Racewalk),$3860000
+RSA,Mafori Ryan Mphahlele (1500m),$3860000
+KAZ,Georgiy Sheiko (35K Racewalk),$3850000
+BRA,Altobelli Silva (3000m Steeplechase),$3830000
+ECU,Brian Daniel Pintado (20K Racewalk),$3830000
+BIH,Abedin Mujezinović (800m),$3820000
+AUS,Matthew Ramsden (5000m),$3800000
+ESP,Mario García (1500m),$3800000
+NZL,Hamish Carson (5000m),$3780000
+BEL,Tim Van De Velde (3000m Steeplechase),$3740000
+BRA,Jose Marcio Leao Da Silva (Marathon),$3740000
+CAN,Evan Dunfee (35K Racewalk),$3740000
+ESP,Alberto Amezcua (20K Racewalk),$3720000
+PER,César Rodríguez (35K Racewalk),$3720000
+SVK,Dominik Černý (35K Racewalk),$3690000
+USA,Joshua Thompson (1500m),$3690000
+POL,Dawid Tomala (35K Racewalk),$3680000
+CZE,Filip Sasínek (1500m),$3680000
+CHN,Jianhua Peng (Marathon),$3640000
+MAR,Elhassane Moujahid (1500m),$3640000
+AUS,Jack Rayner (10000m),$3620000
+COL,Carlos San Martin (3000m Steeplechase),$3620000
+ITA,Andrea Agrusti (35K Racewalk),$3610000
+CAN,Cameron Proceviat (1500m),$3600000
+CHN,Wenchao Niu (20K Racewalk),$3590000
+KEN,Rodgers Kwemoi (10000m),$3580000
+AUS,Matthew Ramsden (1500m),$3580000
+GER,Karl Bebendorf (3000m Steeplechase),$3570000
+USA,Samuel Prakel (1500m),$3570000
+AUS,Rhydian Cowley (35K Racewalk),$3550000
+URU,Santiago Catrofe (1500m),$3550000
+ROU,Marius Iulian Cocioran (35K Racewalk),$3540000
+IRL,Andrew Coscoran (1500m),$3540000
+AUS,Ky Robinson (5000m),$3520000
+BRN,Shumi Dechasa (Marathon),$3520000
+BOL,Héctor Garibay Flores (Marathon),$3510000
+ARU,Jethro Saint-Fleur (5000m),$3500000
+USA,Sean McGorty (10000m),$3500000
+POR,Isaac Nader (1500m),$3470000
+JPN,Hiroto Jusho (20K Racewalk),$3450000
+GER,Sam Parsons (5000m),$3440000
+GER,Christopher Linke (20K Racewalk),$3440000
+USA,Shadrack Kipchirchir (10000m),$3430000
+GER,Christoph Kessler (1500m),$3430000
+ERI,Habtom Samuel (10000m),$3420000
+UGA,Jackson Kiprop (Marathon),$3420000
+ESP,Marc Tur (35K Racewalk),$3410000
+CAN,Cameron Levins (Marathon),$3390000
+KOR,Joo-Han Oh (Marathon),$3380000
+MEX,Andres Eduardo Olivas Núñez (20K Racewalk),$3370000
+GRE,Alexandros Papamichail (35K Racewalk),$3370000
+LAT,Arnis Rumbenieks (35K Racewalk),$3350000
+GER,Maximilian Thorwirth (5000m),$3320000
+ARG,Joaquin Arbe (Marathon),$3320000
+BEL,Isaac Kimeli (10000m),$3310000
+USA,Colin Bennie (Marathon),$3300000
+GBR,Patrick Dever (10000m),$3260000
+KOR,Byeong-Kwang Choe (20K Racewalk),$3250000
+FRA,Jimmy Gressier (10000m),$3240000
+NOR,Tom Kårbø (3000m Steeplechase),$3240000
+BRA,Altobelli Silva (5000m),$3230000
+BDI,Egide Ntakarutimana (10000m),$3230000
+PAN,Jorge Castelblanco (Marathon),$3230000
+ECU,David Hurtado (20K Racewalk),$3230000
+BRA,Paulo Roberto Paula (Marathon),$3220000
+RSA,Wayne Snyman (20K Racewalk),$3210000
+BRA,Thiago André (1500m),$3210000
+BDI,Rodrigue Kwizera (10000m),$3200000
+KEN,Daniel Mateiko (10000m),$3200000
+ARG,Federico Bruno (1500m),$3200000
+NOR,Ferdinand Edman (1500m),$3190000
+COL,Éider Arévalo (20K Racewalk),$3170000
+UGA,Stephen Kissa (10000m),$3160000
+ARG,Eulalio Munoz (Marathon),$3160000
+GUA,José Barrondo (20K Racewalk),$3140000
+SLO,Žan Rudolf (800m),$3130000
+KEN,Stanley Waithaka Mburu (10000m),$3110000
+UGA,Filex Malewa Chemongesi (Marathon),$3110000
+SWE,David Nilsson (Marathon),$3100000
+MAR,Anass Essayi (1500m),$3100000
+PER,Luis Henry Campos (35K Racewalk),$3080000
+AUS,Declan Tingay (20K Racewalk),$3070000
+PER,César Rodríguez (20K Racewalk),$3060000
+CAN,Ben Preisner (Marathon),$3050000
+BEL,Lahsene Bouchikhi (Marathon),$3020000
+LES,Tebello Ramakongoana (Marathon),$3010000
+ZIM,Isaac Mpofu (Marathon),$3010000
+MEX,Jesus Calderon (20K Racewalk),$3010000
+IRL,Brendan Boyce (35K Racewalk),$2970000
+COL,Diego Pinzon (35K Racewalk),$2960000
+UGA,Fred Musobo (Marathon),$2940000
+TAN,Emanuel Gisamoda (Marathon),$2920000
+ITA,Francesco Fortunato (20K Racewalk),$2920000
+CZE,Vít Hlaváč (35K Racewalk),$2910000
+MGL,Byambajav Tseveenravdan (Marathon),$2900000
+ESP,Carlos Mayo (10000m),$2860000
+CHN,Kaihua Wang (20K Racewalk),$2860000
+LTU,Marius Žiūkas (35K Racewalk),$2860000
+GBR,Chris Thompson (Marathon),$2840000
+ECU,Jonathan Javier Amores Carua (35K Racewalk),$2820000
+DEN,Thijs Nijhuis (Marathon),$2810000
+GUA,José Ortíz (20K Racewalk),$2810000
+CHN,Shaohui Yang (Marathon),$2800000
+URU,Nicolás Cuestas (Marathon),$2780000
+GER,Tom Gröschel (Marathon),$2780000
+JPN,Tatsuhiko Ito (10000m),$2760000
+JPN,Toshikazu Yamanishi (20K Racewalk),$2760000
+ISR,Tasama Moogas (Marathon),$2740000
+MEX,Julio Salazar (20K Racewalk),$2740000
+POR,Rui Coelho (35K Racewalk),$2740000
+CHN,Jun Zhang (20K Racewalk),$2720000
+USA,Elkanah Kibet (Marathon),$2710000
+RSA,Tumelo Motlagale (Marathon),$2710000
+RSA,Precious Mashele (5000m),$2690000
+MGL,Gantulga Dambadarjaa (Marathon),$2690000
+USA,Colin Mickow (Marathon),$2670000
+MAR,Zouhair Talbi (10000m),$2660000
+MEX,Patricio Castillo (Marathon),$2660000
+URU,Ernesto Andrés Zamora (Marathon),$2650000
+RSA,Melikhaya Frans (Marathon),$2640000
+GBR,Joshua Griffiths (Marathon),$2640000
+BEL,Thomas De Bock (Marathon),$2640000
+KEN,Samuel Gathimba (20K Racewalk),$2640000
+CHN,Guojian Dong (Marathon),$2620000
+AUS,Carl Gibbons (35K Racewalk),$2610000
+ECU,Jordy Rafael Jiménez Arrobo (20K Racewalk),$2600000
+SUD,Yaseen Abdalla (5000m),$2580000
+AUS,Stewart McSweyn (1500m),$2560000
+IND,Sandeep Kumar (20K Racewalk),$2540000
+GBR,Andrew Butchart (5000m),$2510000
+ITA,Gianluca Picchiottino (20K Racewalk),$2500000
+AUS,Kyle Swan (20K Racewalk),$2480000
+GUA,José Oswaldo Calel (20K Racewalk),$2460000
+LTU,Artur Mastianica (35K Racewalk),$2450000
+SSD,Abraham Guem (1500m),$2340000
+JPN,Ren Tazawa (10000m),$2270000
+NZL,Quentin Rew (20K Racewalk),$2270000
+USA,Nick Christie (35K Racewalk),$2240000
+QAT,Adam Musab (1500m),$2240000
+CAN,Rory Linkletter (Marathon),$2220000
+ARM,Yervand Mkrtchyan (1500m),$2090000
+MEX,Dario Castro (Marathon),$2030000
+AUS,Rhydian Cowley (20K Racewalk),$2020000
+FIN,Aleksi Ojala (20K Racewalk),$1950000
+USA,Nick Christie (20K Racewalk),$1920000
+USA,Joe Klecker (10000m),$1880000
+PER,Luis Henry Campos (20K Racewalk),$1870000
+BRA,Matheus Correa (20K Racewalk),$1790000
+USA,Dan Nehnevaj (20K Racewalk),$1740000
+SVK,Miroslav Úradník (20K Racewalk),$1620000
+TUR,Salih Korkmaz (20K Racewalk),$1500000
+SOM,Abdullahi Jama Mohamed (5000m),$1480000
+SVK,Dominik Černý (20K Racewalk),$1430000
+GUA,Luis Ángel Sanchez Pérez (35K Racewalk),$1370000
+LTU,Marius Žiūkas (20K Racewalk),$1360000
+KGZ,Nursultan Keneshbekov (5000m),$1310000
+KAZ,Georgiy Sheiko (20K Racewalk),$1230000
+ISV,Eduardo Terrance Garcia (Marathon),$1220000
+CHA,Ali Hissein Mahamat (5000m),$1120000
+ART,Jamal Mohammed (5000m),$970000
+MGL,Ser-Od Bat-Ochir (Marathon),$950000
+ARG,Juan Cano (20K Racewalk),$860000
+BRA,Lucas Mazzo (20K Racewalk),$820000
+NEP,Krishna Bahadur Basnet (Marathon),$780000
+MAW,Allan Ngitsi Chirwa (800m),$460000
+TLS,Manuel Belo Amaral Ataide (800m),$280000

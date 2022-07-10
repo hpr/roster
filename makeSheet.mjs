@@ -19,6 +19,8 @@ const CATS = [{
   25: 'Marathon',
   20: '800m',
   22: '5000m',
+  32: '20K Racewalk',
+  2234: '35K Racewalk',
 }, {
   name: 'Throws',
   51: 'Hammer Throw',
@@ -40,17 +42,17 @@ const NONE = 'None';
 
 // console.log(Object.keys(evts).sort((a, b) => evts[a].startDateTime - evts[b].startDateTime).map(id => [id, evts[id].eventIdFk, new Date(evts[id].startDateTime)]));
 
-const athletes = Object.values(evts).filter(evt => evt.combinedType === NONE && evt.entries).flatMap(evt => Object.values(evt.entries).map(ath => ({ ...ath, eventIdFk: evt.eventIdFk, event: (CATS.find(cat => evt.eventIdFk in cat) ?? {})[evt.eventIdFk], price: '$' + ath.price })));
+const athletes = Object.values(evts).filter(evt => evt.combinedType === NONE && evt.entries).flatMap(evt => Object.values(evt.entries).map(ath => ({ ...ath, eventIdFk: evt.eventIdFk, event: (CATS.find(cat => evt.eventIdFk in cat) ?? {})[evt.eventIdFk], price: '$' + ath.price }))).map(ath => ({ ...ath, nameAndEvent: `${ath.firstName} ${ath.lastName} (${ath.event})` }));
 
 for (const cat of CATS) {
   for (const sex of SEX) {
     fs.writeFileSync(`output/${cat.name}_${sex}.csv`, stringify(athletes.filter(ath => Object.keys(cat).includes(ath.eventIdFk + '') && ath.gender === sex).sort((a, b) => +b.price.slice(1) - +a.price.slice(1)), {
       header: true,
-      columns: [ 'athleteCountryCode', 'firstName', 'lastName', 'price', 'event' ],
+      columns: [ 'athleteCountryCode', 'nameAndEvent', 'price' ],
     }));
   }
 }
 
-fs.writeFileSync(`output/All Data (For Stat Nerds).csv`, stringify(athletes.sort((a, b) => b.price - a.price), {
+fs.writeFileSync(`output/All Data (For Stat Nerds).csv`, stringify(athletes.sort((a, b) => +b.price.slice(1) - +a.price.slice(1)), {
   header: true,
 }));

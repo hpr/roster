@@ -1,254 +1,339 @@
-athleteCountryCode,firstName,lastName,price,event
-KEN,Ruth,Chepngetich,$7860000,Marathon
-KEN,Peres,Jepchirchir,$7850000,Marathon
-ETH,Ejgayehu,Taye,$7530000,5000m
-ETH,Ashete,Bekere,$7310000,Marathon
-NED,Sifan,Hassan,$7250000,10000m
-NED,Sifan,Hassan,$7130000,1500m
-ETH,Gotytom,Gebreslase,$7060000,Marathon
-KEN,Faith,Kipyegon,$7060000,1500m
-BRN,Winfred,Yavi,$7040000,3000m Steeplechase
-KAZ,Norah,Jeruto,$7020000,3000m Steeplechase
-ISR,Lonah,Chemtai Salpeter,$6950000,Marathon
-KEN,Angela,Tanui,$6940000,Marathon
-ETH,Letesenbet,Gidey,$6860000,5000m
-NED,Sifan,Hassan,$6570000,5000m
-ETH,Gudaf,Tsegay,$6510000,5000m
-USA,Keira,D'amato,$6440000,Marathon
-ETH,Gudaf,Tsegay,$6390000,1500m
-USA,Athing,Mu,$6350000,800m
-BDI,Francine,Niyonsaba,$6260000,5000m
-ETH,Dawit,Seyaum,$6210000,5000m
-ETH,Mekides,Abebe,$6120000,3000m Steeplechase
-USA,Ajeé,Wilson,$6100000,800m
-KEN,Judith Jeptum,Korir,$6060000,Marathon
-GBR,Keely,Hodgkinson,$6060000,800m
-GBR,Eilish,McColgan,$5960000,5000m
-UGA,Peruth,Chemutai,$5950000,3000m Steeplechase
-BRN,Eunice,Chumba,$5910000,Marathon
-NOR,Karoline,Grøvdal,$5740000,5000m
-KEN,Celliphine,Chespol,$5640000,3000m Steeplechase
-KEN,Mary,Moraa,$5600000,800m
-USA,Elise,Cranny,$5560000,5000m
-ETH,Werkuha,Getachew,$5520000,3000m Steeplechase
-USA,Raevyn,Rogers,$5490000,800m
-USA,Emma,Coburn,$5480000,3000m Steeplechase
-GER,Konstanze,Klosterhalfen,$5450000,5000m
-ETH,Ababel,Yeshaneh,$5440000,Marathon
-JPN,Mao,Ichiyama,$5430000,Marathon
-JPN,Mizuki,Matsuda,$5430000,Marathon
-JAM,Natoya,Goule,$5390000,800m
-ETH,Sembo,Almayew,$5350000,3000m Steeplechase
-CUB,Rose,Almanza,$5300000,800m
-ERI,Rahel,Daniel,$5280000,5000m
-ETH,Hirut,Meshesha,$5270000,1500m
-GBR,Jemma,Reekie,$5260000,800m
-JPN,Hitomi,Niiya,$5200000,Marathon
-USA,Courtney,Frerichs,$5190000,3000m Steeplechase
-ETH,Freweyni,Hailu,$5180000,1500m
-USA,Allie,Wilson,$5130000,800m
-ETH,Haven Hailu,Desse,$5090000,Marathon
-ETH,Diribe,Welteji,$5070000,800m
-FRA,Rénelle,Lamote,$5040000,800m
-USA,Courtney,Wayment,$5030000,3000m Steeplechase
-AUS,Catriona,Bisset,$4990000,800m
-RSA,Prudence,Sekgodiso,$4990000,800m
-UGA,Halimah,Nakaayi,$4990000,800m
-KAZ,Daisy,Jepkemei,$4930000,3000m Steeplechase
-ETH,Hirut,Meshesha,$4910000,800m
-ETH,Letesenbet,Gidey,$4910000,10000m
-ERI,Nazret,Weldu,$4870000,Marathon
-ETH,Axumawit,Embaye,$4840000,1500m
-USA,Sinclaire,Johnson,$4820000,1500m
-ALB,Luiza,Gega,$4790000,3000m Steeplechase
-GBR,Eilish,McColgan,$4750000,10000m
-SLO,Maruša,Mišmaš-Zrimšek,$4740000,3000m Steeplechase
-AUS,Jessica,Hull,$4740000,1500m
-USA,Sara,Hall,$4730000,Marathon
-ETH,Freweyni,Hailu,$4730000,800m
-USA,Elle,St. Pierre,$4730000,1500m
-KEN,Beatrice,Chepkoech,$4710000,3000m Steeplechase
-ITA,Elena,Bellò,$4660000,800m
-GBR,Jess,Piasecki,$4620000,Marathon
-KEN,Jackline,Chepkoech,$4620000,3000m Steeplechase
-UGA,Winnie,Nanyondo,$4510000,1500m
-AUS,Linden,Hall,$4490000,1500m
-AUS,Georgia,Griffith,$4480000,1500m
-GBR,Laura,Muir,$4440000,1500m
-USA,Cory Ann,McGee,$4430000,1500m
-IRL,Louise,Shanahan,$4420000,800m
-CAN,Lindsey,Butterworth,$4390000,800m
-USA,Karissa,Schweizer,$4390000,1500m
-JAM,Chrisann,Gordon-Powell,$4360000,800m
-GBR,Elizabeth,Bird,$4290000,3000m Steeplechase
-FRA,Alice,Finot,$4270000,3000m Steeplechase
-CAN,Madeleine,Kelly,$4260000,800m
-MEX,Laura,Galván,$4250000,5000m
-GBR,Alexandra,Bell,$4240000,800m
-ETH,Habitam,Alemu,$4220000,800m
-SUI,Chiara,Scherrer,$4210000,3000m Steeplechase
-KEN,Jarinter,Mwasya,$4200000,800m
-POL,Anna,Wielgosz,$4200000,800m
-USA,Karissa,Schweizer,$4200000,5000m
-UKR,Olha,Lyakhova,$4190000,800m
-GBR,Charlotte,Purdue,$4180000,Marathon
-BDI,Francine,Niyonsaba,$4150000,10000m
-KEN,Beatrice,Chebet,$4130000,5000m
-ISR,Selamawit,Teferi,$4100000,5000m
-NOR,Hedda,Hynne,$4090000,800m
-KEN,Naomi,Korir,$4090000,800m
-ETH,Ejgayehu,Taye,$4090000,10000m
-KEN,Margaret,Chelimo Kipkemboi,$4080000,10000m
-KAZ,Caroline,Kipkirui,$4050000,5000m
-ITA,Gaia,Sabbatini,$4050000,1500m
-ETH,Bosena,Mulatie,$4020000,10000m
-ETH,Girmawit,Gebrzihair,$4010000,10000m
-USA,Karissa,Schweizer,$3980000,10000m
-SLO,Anita,Horvat,$3970000,800m
-GBR,Ellie,Baker,$3960000,800m
-GER,Christina,Hering,$3950000,800m
-USA,Alicia,Monson,$3940000,10000m
-TUN,Marwa,Bouzayani,$3920000,3000m Steeplechase
-JAM,Adelle,Tracey,$3920000,800m
-SUI,Lore,Hoffmann,$3910000,800m
-JAM,Adelle,Tracey,$3910000,1500m
-BEN,Noélie,Yarigo,$3900000,800m
-USA,Weini,Kelati Frezghi,$3890000,5000m
-KEN,Edinah,Jebitok,$3890000,1500m
-POL,Sofia,Ennaoui,$3890000,1500m
-GBR,Jessica,Judd,$3880000,5000m
-KEN,Margaret,Chelimo Kipkemboi,$3870000,5000m
-ETH,Zerfe,Wondemagegn,$3860000,3000m Steeplechase
-BRA,Tatiane Raquel,da Silva,$3850000,3000m Steeplechase
-UKR,Nataliya,Strebkova,$3840000,3000m Steeplechase
-IRL,Sarah,Healy,$3840000,1500m
-GER,Majtie,Kolberg,$3820000,800m
-USA,Emma,Bates,$3810000,Marathon
-USA,Gabbi,Jennings,$3800000,3000m Steeplechase
-KEN,Gloria,Kite,$3790000,5000m
-GBR,Aimee,Pratt,$3760000,3000m Steeplechase
-USA,Kellyn,Taylor,$3750000,Marathon
-GER,Lea,Meyer,$3750000,3000m Steeplechase
-AUS,Jessica,Hull,$3750000,5000m
-CZE,Kristiina,Mäki,$3750000,1500m
-ERI,Rahel,Daniel,$3740000,10000m
-KEN,Winny,Chebet,$3740000,1500m
-RSA,Dominique,Scott,$3730000,10000m
-GBR,Melissa,Courtney-Bryant,$3720000,1500m
-ITA,Federica,Del Buono,$3720000,1500m
-GER,Hanna,Klein,$3710000,1500m
-GER,Konstanze,Klosterhalfen,$3700000,10000m
-GBR,Katie,Snowden,$3690000,1500m
-NED,Maureen,Koster,$3680000,5000m
-USA,Emily,Infeld,$3630000,5000m
-KEN,Judith,Kiyeng,$3630000,1500m
-UGA,Esther,Chebet,$3600000,5000m
-FIN,Eveliina,Määttänen,$3590000,800m
-AUS,Amy,Cashin,$3570000,3000m Steeplechase
-AUS,Abbey,Caldwell,$3570000,1500m
-CAN,Lucia,Stafford,$3560000,1500m
-JPN,Nozomi,Tanaka,$3560000,1500m
-CAN,Addy,Townsend,$3540000,800m
-GER,Katharina,Trost,$3540000,1500m
-ARG,Belén,Casetta,$3520000,3000m Steeplechase
-BEL,Elise,Vanderelst,$3520000,1500m
-JPN,Nozomi,Tanaka,$3510000,5000m
-AUS,Tess,Kirsopp-Cole,$3480000,800m
-ITA,Sintayehu,Vissa,$3480000,1500m
-MAR,Assia,Raziki,$3460000,800m
-SRI,Gayanthika,Artigala,$3460000,800m
-SWE,Sarah,Lahti,$3460000,5000m
-KAZ,Caroline,Kipkirui,$3460000,10000m
-VIN,Shafiqua,Maloney,$3450000,800m
-UGA,Stella,Chesang,$3450000,10000m
-KEN,Purity,Kirui,$3440000,3000m Steeplechase
-GER,Alina,Reh,$3420000,5000m
-JPN,Ririka,Hironaka,$3420000,5000m
-UGA,Mercyline,Chelangat,$3420000,10000m
-USA,Natosha,Rogers,$3410000,10000m
-MEX,Laura,Galván,$3410000,1500m
-CAN,Regan,Yee,$3380000,3000m Steeplechase
-AUS,Natalie,Rule,$3370000,5000m
-ESP,Marta,Pérez,$3370000,1500m
-CAN,Ceili,McCabe,$3360000,3000m Steeplechase
-ESP,Irene,Sánchez-Escribano,$3340000,3000m Steeplechase
-AUS,Rose,Davies,$3320000,5000m
-URU,Déborah,Rodríguez,$3300000,800m
-JPN,Ririka,Hironaka,$3300000,10000m
-GBR,Jessica,Judd,$3290000,10000m
-GER,Gesa,Krause,$3260000,3000m Steeplechase
-ESP,Carolina,Robles,$3250000,3000m Steeplechase
-USA,Emily,Infeld,$3250000,10000m
-KEN,Hellen,Obiri,$3240000,10000m
-CAN,Natalia,Hawthorn,$3240000,1500m
-MEX,Mariela Luisa,Real,$3230000,800m
-MEX,Alma Delia,Cortés,$3210000,1500m
-AUS,Brielle,Erbacher,$3200000,3000m Steeplechase
-SWE,Yolanda,Ngarambe,$3200000,1500m
-AUS,Claudia,Hollingsworth,$3190000,800m
-CZE,Diana,Mezuliáníková,$3190000,1500m
-POR,Marta,Pen Freitas,$3190000,1500m
-MEX,Citlali,Moscote,$3140000,Marathon
-ISR,Adva,Cohen,$3140000,3000m Steeplechase
-SLO,Jerneja,Smonkar,$3120000,800m
-KEN,Sheila,Kiprotich,$3120000,10000m
-BEL,Vanessa,Scaunet,$2970000,800m
-POL,Kinga,Królik,$2960000,3000m Steeplechase
-SWE,Hanna,Hermansson,$2940000,1500m
-KAZ,Zhanna,Mamazhanova,$2930000,Marathon
-MEX,Risper,Gesabwa,$2920000,Marathon
-JPN,Nozomi,Tanaka,$2910000,800m
-JPN,Kaede,Hagitani,$2910000,5000m
-CAN,Grace,Fetherstonhaugh,$2900000,3000m Steeplechase
-CHN,Deshun,Zhang,$2890000,Marathon
-JPN,Rino,Goshima,$2880000,10000m
-JPN,Yuno,Yamanaka,$2860000,3000m Steeplechase
-IND,Parul,Chaudhary,$2850000,3000m Steeplechase
-ERI,Dolshi,Tesfu,$2840000,10000m
-GBR,Rose,Harvey,$2800000,Marathon
-AUS,Cara,Feain-Ryan,$2790000,3000m Steeplechase
-JPN,Reimi,Yoshimura,$2760000,3000m Steeplechase
-SRI,Nilani,Rathnayaka,$2730000,3000m Steeplechase
-ECU,Andrea,Bonilla,$2720000,Marathon
-GER,Sara,Benfarès,$2650000,5000m
-PER,Jovana,de la Cruz,$2620000,Marathon
-ARG,Florencia,Borelli,$2600000,5000m
-JPN,Ran,Urabe,$2600000,1500m
-ARG,Carolina,Lozano,$2580000,3000m Steeplechase
-FIN,Nathalie,Blomqvist,$2530000,1500m
-POR,Mariana,Machado,$2520000,5000m
-UGA,Immaculate,Chemutai,$2490000,Marathon
-BEL,Mieke,Gorissen,$2480000,Marathon
-GBR,Amy-Eloise,Markovc,$2480000,5000m
-TUR,Şilan,Ayyildiz,$2480000,1500m
-CAN,Leslie,Sexton,$2460000,Marathon
-BRA,Simone,Ferraz,$2460000,3000m Steeplechase
-ECU,Rosa,Chacha,$2440000,Marathon
-SWE,Carolina,Wikström,$2390000,Marathon
-CAN,Gracelyn,Larkin,$2370000,5000m
-FIN,Camilla,Richardsson,$2370000,5000m
-MGL,Bayartsogt,Munkhzaya,$2360000,Marathon
-ISR,Maor,Tiyouri,$2350000,Marathon
-CZE,Tereza,Hrochová,$2340000,Marathon
-RSA,Caster,Semenya,$2320000,5000m
-BUL,Militsa,Mircheva,$2270000,Marathon
-CHN,Shuangshuang,Xu,$2260000,3000m Steeplechase
-PER,Soledad,Torre,$2160000,Marathon
-FIN,Alisa,Vainio,$2150000,Marathon
-CAN,Kinsey,Middleton,$2100000,Marathon
-IND,Parul,Chaudhary,$2080000,5000m
-JPN,Narumi,Kobayashi,$2010000,10000m
-AUS,Sarah,Klein,$1960000,Marathon
-CHN,Zhixuan,Li,$1920000,Marathon
-VEN,Joselyn Daniely,Brea,$1900000,5000m
-HKG,Christy,Ching,$1850000,Marathon
-PER,Aydee,Huaman,$1790000,Marathon
-TPE,Tsao,Chun-Yu,$1620000,Marathon
-CAN,Élissa,Legault,$1500000,Marathon
-KOS,Gresa,Bakraçi,$1410000,1500m
-VEN,Edymar,Brea,$1390000,5000m
-SWE,Hanna,Lindholm,$1360000,Marathon
-MKD,Andrijana,Pop Arsova,$1220000,Marathon
-PUR,Beverly,Ramos,$1190000,Marathon
-ART,Anjelina,Lohalith,$690000,1500m
-ART,Atalena,Gaspore,$600000,800m
+athleteCountryCode,nameAndEvent,price
+KEN,Ruth Chepngetich (Marathon),$7860000
+KEN,Peres Jepchirchir (Marathon),$7850000
+ETH,Ejgayehu Taye (5000m),$7530000
+ETH,Ashete Bekere (Marathon),$7310000
+NED,Sifan Hassan (10000m),$7250000
+NED,Sifan Hassan (1500m),$7130000
+ETH,Gotytom Gebreslase (Marathon),$7060000
+KEN,Faith Kipyegon (1500m),$7060000
+BRN,Winfred Yavi (3000m Steeplechase),$7040000
+KAZ,Norah Jeruto (3000m Steeplechase),$7020000
+ISR,Lonah Chemtai Salpeter (Marathon),$6950000
+KEN,Angela Tanui (Marathon),$6940000
+ETH,Letesenbet Gidey (5000m),$6860000
+CHN,Shijie Qieyang (35K Racewalk),$6840000
+PER,Kimberly García León (35K Racewalk),$6800000
+CHN,Hong Liu (20K Racewalk),$6790000
+NED,Sifan Hassan (5000m),$6570000
+ETH,Gudaf Tsegay (5000m),$6510000
+USA,Keira D'amato (Marathon),$6440000
+ETH,Gudaf Tsegay (1500m),$6390000
+USA,Athing Mu (800m),$6350000
+CHN,Maocuo Li (35K Racewalk),$6340000
+JPN,Serena Sonoda (35K Racewalk),$6330000
+BDI,Francine Niyonsaba (5000m),$6260000
+ETH,Dawit Seyaum (5000m),$6210000
+ETH,Mekides Abebe (3000m Steeplechase),$6120000
+USA,Ajeé Wilson (800m),$6100000
+KEN,Judith Jeptum Korir (Marathon),$6060000
+GBR,Keely Hodgkinson (800m),$6060000
+GRE,Antigoni Ntrismpioti (35K Racewalk),$5990000
+GBR,Eilish McColgan (5000m),$5960000
+UGA,Peruth Chemutai (3000m Steeplechase),$5950000
+ESP,Laura García-Caro (35K Racewalk),$5940000
+BRN,Eunice Chumba (Marathon),$5910000
+ECU,Paola Pérez (35K Racewalk),$5880000
+ECU,Glenda Morejón (35K Racewalk),$5860000
+ECU,Magaly Bonilla (35K Racewalk),$5820000
+BRA,Viviane Lyra (35K Racewalk),$5750000
+NOR,Karoline Grøvdal (5000m),$5740000
+POL,Katarzyna Zdziebło (35K Racewalk),$5690000
+CHN,Lamei Yin (35K Racewalk),$5680000
+KEN,Celliphine Chespol (3000m Steeplechase),$5640000
+KEN,Mary Moraa (800m),$5600000
+USA,Elise Cranny (5000m),$5560000
+ETH,Werkuha Getachew (3000m Steeplechase),$5520000
+USA,Raevyn Rogers (800m),$5490000
+USA,Emma Coburn (3000m Steeplechase),$5480000
+GER,Konstanze Klosterhalfen (5000m),$5450000
+ETH,Ababel Yeshaneh (Marathon),$5440000
+JPN,Mao Ichiyama (Marathon),$5430000
+JPN,Mizuki Matsuda (Marathon),$5430000
+JAM,Natoya Goule (800m),$5390000
+ETH,Sembo Almayew (3000m Steeplechase),$5350000
+PER,Evelyn Inga (35K Racewalk),$5330000
+UKR,Nadiya Borovska (35K Racewalk),$5320000
+GUA,Mirna Ortíz (35K Racewalk),$5300000
+POR,Inês Henriques (35K Racewalk),$5300000
+CUB,Rose Almanza (800m),$5300000
+ERI,Rahel Daniel (5000m),$5280000
+ETH,Hirut Meshesha (1500m),$5270000
+GBR,Jemma Reekie (800m),$5260000
+CHN,Li Ma (35K Racewalk),$5210000
+JPN,Hitomi Niiya (Marathon),$5200000
+USA,Courtney Frerichs (3000m Steeplechase),$5190000
+ETH,Freweyni Hailu (1500m),$5180000
+MEX,Alejandra Ortega (35K Racewalk),$5170000
+GUA,Yasury Palacios (35K Racewalk),$5160000
+USA,Allie Wilson (800m),$5130000
+ETH,Haven Hailu Desse (Marathon),$5090000
+ETH,Diribe Welteji (800m),$5070000
+FRA,Rénelle Lamote (800m),$5040000
+USA,Courtney Wayment (3000m Steeplechase),$5030000
+MEX,Nadia Lizeth Gonzalez Monjarrez (35K Racewalk),$5000000
+AUS,Catriona Bisset (800m),$4990000
+RSA,Prudence Sekgodiso (800m),$4990000
+UGA,Halimah Nakaayi (800m),$4990000
+KAZ,Daisy Jepkemei (3000m Steeplechase),$4930000
+ETH,Hirut Meshesha (800m),$4910000
+ETH,Letesenbet Gidey (10000m),$4910000
+ERI,Nazret Weldu (Marathon),$4870000
+ETH,Axumawit Embaye (1500m),$4840000
+USA,Sinclaire Johnson (1500m),$4820000
+ALB,Luiza Gega (3000m Steeplechase),$4790000
+GBR,Eilish McColgan (10000m),$4750000
+SLO,Maruša Mišmaš-Zrimšek (3000m Steeplechase),$4740000
+AUS,Jessica Hull (1500m),$4740000
+USA,Sara Hall (Marathon),$4730000
+ETH,Freweyni Hailu (800m),$4730000
+USA,Elle St. Pierre (1500m),$4730000
+KEN,Beatrice Chepkoech (3000m Steeplechase),$4710000
+ITA,Elena Bellò (800m),$4660000
+CHN,Shijie Qieyang (20K Racewalk),$4640000
+POR,Vitória Oliveira (35K Racewalk),$4630000
+GBR,Jess Piasecki (Marathon),$4620000
+KEN,Jackline Chepkoech (3000m Steeplechase),$4620000
+GRE,Christina Papadopoulou (35K Racewalk),$4540000
+POL,Olga Niedziałek (35K Racewalk),$4510000
+UGA,Winnie Nanyondo (1500m),$4510000
+AUS,Linden Hall (1500m),$4490000
+AUS,Georgia Griffith (1500m),$4480000
+UKR,Lyudmila Olyanovska (20K Racewalk),$4470000
+GBR,Laura Muir (1500m),$4440000
+USA,Cory Ann McGee (1500m),$4430000
+ESP,Raquel González (35K Racewalk),$4420000
+FIN,Tiia Kuikka (35K Racewalk),$4420000
+IRL,Louise Shanahan (800m),$4420000
+CAN,Lindsey Butterworth (800m),$4390000
+USA,Karissa Schweizer (1500m),$4390000
+CZE,Tereza Ďurdiaková (35K Racewalk),$4380000
+JAM,Chrisann Gordon-Powell (800m),$4360000
+ESP,María Pérez (20K Racewalk),$4340000
+GBR,Elizabeth Bird (3000m Steeplechase),$4290000
+AUS,Jemima Montag (20K Racewalk),$4270000
+FRA,Alice Finot (3000m Steeplechase),$4270000
+CAN,Madeleine Kelly (800m),$4260000
+MEX,Laura Galván (5000m),$4250000
+GBR,Alexandra Bell (800m),$4240000
+AUS,Kelly Ruddick (35K Racewalk),$4230000
+ETH,Habitam Alemu (800m),$4220000
+SUI,Chiara Scherrer (3000m Steeplechase),$4210000
+USA,Miranda Melville (35K Racewalk),$4200000
+KEN,Jarinter Mwasya (800m),$4200000
+POL,Anna Wielgosz (800m),$4200000
+USA,Karissa Schweizer (5000m),$4200000
+UKR,Olha Lyakhova (800m),$4190000
+GBR,Charlotte Purdue (Marathon),$4180000
+BDI,Francine Niyonsaba (10000m),$4150000
+KEN,Beatrice Chebet (5000m),$4130000
+ROU,Ana Rodean (35K Racewalk),$4100000
+ISR,Selamawit Teferi (5000m),$4100000
+NOR,Hedda Hynne (800m),$4090000
+KEN,Naomi Korir (800m),$4090000
+ETH,Ejgayehu Taye (10000m),$4090000
+KEN,Margaret Chelimo Kipkemboi (10000m),$4080000
+FIN,Elisa Neuvonen (35K Racewalk),$4060000
+KAZ,Caroline Kipkirui (5000m),$4050000
+ITA,Gaia Sabbatini (1500m),$4050000
+USA,Stephanie Casey (35K Racewalk),$4020000
+ETH,Bosena Mulatie (10000m),$4020000
+ETH,Girmawit Gebrzihair (10000m),$4010000
+USA,Karissa Schweizer (10000m),$3980000
+SLO,Anita Horvat (800m),$3970000
+GBR,Ellie Baker (800m),$3960000
+GER,Christina Hering (800m),$3950000
+CHN,Zhenxia Ma (20K Racewalk),$3940000
+USA,Alicia Monson (10000m),$3940000
+TUN,Marwa Bouzayani (3000m Steeplechase),$3920000
+JAM,Adelle Tracey (800m),$3920000
+MEX,Aura Morales (35K Racewalk),$3910000
+SUI,Lore Hoffmann (800m),$3910000
+JAM,Adelle Tracey (1500m),$3910000
+BEN,Noélie Yarigo (800m),$3900000
+USA,Weini Kelati Frezghi (5000m),$3890000
+KEN,Edinah Jebitok (1500m),$3890000
+POL,Sofia Ennaoui (1500m),$3890000
+GBR,Jessica Judd (5000m),$3880000
+KEN,Margaret Chelimo Kipkemboi (5000m),$3870000
+ETH,Zerfe Wondemagegn (3000m Steeplechase),$3860000
+BRA,Tatiane Raquel da Silva (3000m Steeplechase),$3850000
+UKR,Nataliya Strebkova (3000m Steeplechase),$3840000
+IRL,Sarah Healy (1500m),$3840000
+GER,Majtie Kolberg (800m),$3820000
+KAZ,Galina Yakusheva (35K Racewalk),$3810000
+USA,Emma Bates (Marathon),$3810000
+USA,Gabbi Jennings (3000m Steeplechase),$3800000
+KEN,Gloria Kite (5000m),$3790000
+GBR,Aimee Pratt (3000m Steeplechase),$3760000
+USA,Kellyn Taylor (Marathon),$3750000
+GER,Lea Meyer (3000m Steeplechase),$3750000
+AUS,Jessica Hull (5000m),$3750000
+CZE,Kristiina Mäki (1500m),$3750000
+ERI,Rahel Daniel (10000m),$3740000
+KEN,Winny Chebet (1500m),$3740000
+RSA,Dominique Scott (10000m),$3730000
+GBR,Melissa Courtney-Bryant (1500m),$3720000
+ITA,Federica Del Buono (1500m),$3720000
+GER,Hanna Klein (1500m),$3710000
+GER,Konstanze Klosterhalfen (10000m),$3700000
+GBR,Katie Snowden (1500m),$3690000
+SVK,Hana Burzalová (35K Racewalk),$3680000
+NED,Maureen Koster (5000m),$3680000
+USA,Emily Infeld (5000m),$3630000
+KEN,Judith Kiyeng (1500m),$3630000
+UGA,Esther Chebet (5000m),$3600000
+BRA,Mayara Luize Vicentainer (35K Racewalk),$3590000
+FIN,Eveliina Määttänen (800m),$3590000
+BRA,Elianay Pereira (35K Racewalk),$3580000
+AUS,Amy Cashin (3000m Steeplechase),$3570000
+AUS,Abbey Caldwell (1500m),$3570000
+CAN,Lucia Stafford (1500m),$3560000
+JPN,Nozomi Tanaka (1500m),$3560000
+PER,Kimberly García León (20K Racewalk),$3550000
+CAN,Addy Townsend (800m),$3540000
+GER,Katharina Trost (1500m),$3540000
+ARG,Belén Casetta (3000m Steeplechase),$3520000
+BEL,Elise Vanderelst (1500m),$3520000
+JPN,Nozomi Tanaka (5000m),$3510000
+AUS,Tess Kirsopp-Cole (800m),$3480000
+ITA,Sintayehu Vissa (1500m),$3480000
+MAR,Assia Raziki (800m),$3460000
+SRI,Gayanthika Artigala (800m),$3460000
+SWE,Sarah Lahti (5000m),$3460000
+KAZ,Caroline Kipkirui (10000m),$3460000
+VIN,Shafiqua Maloney (800m),$3450000
+UGA,Stella Chesang (10000m),$3450000
+KEN,Purity Kirui (3000m Steeplechase),$3440000
+USA,Maria Michta-Coffey (35K Racewalk),$3430000
+GER,Alina Reh (5000m),$3420000
+JPN,Ririka Hironaka (5000m),$3420000
+UGA,Mercyline Chelangat (10000m),$3420000
+USA,Natosha Rogers (10000m),$3410000
+MEX,Laura Galván (1500m),$3410000
+KAZ,Polina Repina (35K Racewalk),$3390000
+CAN,Regan Yee (3000m Steeplechase),$3380000
+JPN,Kumiko Okada (20K Racewalk),$3370000
+AUS,Natalie Rule (5000m),$3370000
+ESP,Marta Pérez (1500m),$3370000
+CAN,Ceili McCabe (3000m Steeplechase),$3360000
+ESP,Irene Sánchez-Escribano (3000m Steeplechase),$3340000
+ROU,Mihaela Acatrinei (35K Racewalk),$3320000
+AUS,Rose Davies (5000m),$3320000
+URU,Déborah Rodríguez (800m),$3300000
+JPN,Ririka Hironaka (10000m),$3300000
+GBR,Jessica Judd (10000m),$3290000
+UKR,Hanna Shevchuk (20K Racewalk),$3280000
+GER,Gesa Krause (3000m Steeplechase),$3260000
+ESP,Carolina Robles (3000m Steeplechase),$3250000
+USA,Emily Infeld (10000m),$3250000
+KEN,Hellen Obiri (10000m),$3240000
+CAN,Natalia Hawthorn (1500m),$3240000
+MEX,Mariela Luisa Real (800m),$3230000
+MEX,Alma Delia Cortés (1500m),$3210000
+AUS,Brielle Erbacher (3000m Steeplechase),$3200000
+SWE,Yolanda Ngarambe (1500m),$3200000
+JPN,Nanako Fujii (20K Racewalk),$3190000
+AUS,Claudia Hollingsworth (800m),$3190000
+CZE,Diana Mezuliáníková (1500m),$3190000
+POR,Marta Pen Freitas (1500m),$3190000
+MEX,Valeria Ortuño (20K Racewalk),$3180000
+MEX,Citlali Moscote (Marathon),$3140000
+ISR,Adva Cohen (3000m Steeplechase),$3140000
+ECU,Glenda Morejón (20K Racewalk),$3120000
+SLO,Jerneja Smonkar (800m),$3120000
+KEN,Sheila Kiprotich (10000m),$3120000
+GRE,Efstathía Kourkoutsáki (35K Racewalk),$3100000
+ITA,Valentina Trapletti (20K Racewalk),$2970000
+BEL,Vanessa Scaunet (800m),$2970000
+POL,Kinga Królik (3000m Steeplechase),$2960000
+SWE,Hanna Hermansson (1500m),$2940000
+KAZ,Zhanna Mamazhanova (Marathon),$2930000
+MEX,Risper Gesabwa (Marathon),$2920000
+JPN,Nozomi Tanaka (800m),$2910000
+JPN,Kaede Hagitani (5000m),$2910000
+GER,Saskia Feige (20K Racewalk),$2900000
+CAN,Grace Fetherstonhaugh (3000m Steeplechase),$2900000
+ECU,Johana Ordóňez (20K Racewalk),$2890000
+CHN,Deshun Zhang (Marathon),$2890000
+JPN,Rino Goshima (10000m),$2880000
+JPN,Yuno Yamanaka (3000m Steeplechase),$2860000
+IND,Parul Chaudhary (3000m Steeplechase),$2850000
+ERI,Dolshi Tesfu (10000m),$2840000
+POL,Katarzyna Zdziebło (20K Racewalk),$2820000
+GBR,Rose Harvey (Marathon),$2800000
+AUS,Cara Feain-Ryan (3000m Steeplechase),$2790000
+JPN,Reimi Yoshimura (3000m Steeplechase),$2760000
+POR,Ana Cabecinha (20K Racewalk),$2750000
+CHN,Quanming Wu (20K Racewalk),$2740000
+SRI,Nilani Rathnayaka (3000m Steeplechase),$2730000
+ECU,Andrea Bonilla (Marathon),$2720000
+UKR,Olena Sobchuk (20K Racewalk),$2680000
+GER,Sara Benfarès (5000m),$2650000
+PER,Jovana de la Cruz (Marathon),$2620000
+ARG,Florencia Borelli (5000m),$2600000
+JPN,Ran Urabe (1500m),$2600000
+ARG,Carolina Lozano (3000m Steeplechase),$2580000
+MEX,Alegna González (20K Racewalk),$2560000
+ITA,Nicole Colombi (20K Racewalk),$2540000
+FIN,Nathalie Blomqvist (1500m),$2530000
+POR,Mariana Machado (5000m),$2520000
+CZE,Eliška Martínková (20K Racewalk),$2510000
+UGA,Immaculate Chemutai (Marathon),$2490000
+SVK,Ema Hačundová (35K Racewalk),$2480000
+BEL,Mieke Gorissen (Marathon),$2480000
+GBR,Amy-Eloise Markovc (5000m),$2480000
+TUR,Şilan Ayyildiz (1500m),$2480000
+CAN,Leslie Sexton (Marathon),$2460000
+BRA,Simone Ferraz (3000m Steeplechase),$2460000
+BOL,Jaaneth Mamani Roque (35K Racewalk),$2450000
+ECU,Rosa Chacha (Marathon),$2440000
+POR,Sandra Silva (35K Racewalk),$2420000
+SWE,Carolina Wikström (Marathon),$2390000
+CAN,Gracelyn Larkin (5000m),$2370000
+FIN,Camilla Richardsson (5000m),$2370000
+MGL,Bayartsogt Munkhzaya (Marathon),$2360000
+ISR,Maor Tiyouri (Marathon),$2350000
+CZE,Tereza Hrochová (Marathon),$2340000
+RSA,Caster Semenya (5000m),$2320000
+BUL,Militsa Mircheva (Marathon),$2270000
+CHN,Shuangshuang Xu (3000m Steeplechase),$2260000
+AUS,Rebecca Henderson (20K Racewalk),$2200000
+PER,Soledad Torre (Marathon),$2160000
+FIN,Alisa Vainio (Marathon),$2150000
+CAN,Kinsey Middleton (Marathon),$2100000
+IND,Parul Chaudhary (5000m),$2080000
+USA,Robyn Stevens (20K Racewalk),$2030000
+JPN,Narumi Kobayashi (10000m),$2010000
+TUR,Meryem Bekmez (20K Racewalk),$1990000
+AUS,Sarah Klein (Marathon),$1960000
+CHN,Zhixuan Li (Marathon),$1920000
+VEN,Joselyn Daniely Brea (5000m),$1900000
+POR,Inês Henriques (20K Racewalk),$1890000
+HKG,Christy Ching (Marathon),$1850000
+BRA,Viviane Lyra (20K Racewalk),$1820000
+CRC,Noelia Vargas (20K Racewalk),$1810000
+PER,Aydee Huaman (Marathon),$1790000
+PUR,Rachelle de Orbeta (20K Racewalk),$1780000
+KEN,Emily Wamusyi Ngii (20K Racewalk),$1690000
+ECU,Karla Jaramillo (20K Racewalk),$1630000
+GUA,Maidy Monge (20K Racewalk),$1630000
+TPE,Tsao Chun-Yu (Marathon),$1620000
+CAN,Élissa Legault (Marathon),$1500000
+KOS,Gresa Bakraçi (1500m),$1410000
+GRE,Kiriakí Filtisákou (20K Racewalk),$1390000
+VEN,Edymar Brea (5000m),$1390000
+LTU,Brigita Virbalytė-Dimšienė (20K Racewalk),$1380000
+USA,Miranda Melville (20K Racewalk),$1380000
+KAZ,Galina Yakusheva (20K Racewalk),$1360000
+SWE,Hanna Lindholm (Marathon),$1360000
+FIN,Enni Nurmi (20K Racewalk),$1340000
+IND,Priyanka Goswami (20K Racewalk),$1250000
+MKD,Andrijana Pop Arsova (Marathon),$1220000
+PUR,Beverly Ramos (Marathon),$1190000
+BOL,Angela Melania Castro Chirivechz (20K Racewalk),$1130000
+POR,Carolina Costa (20K Racewalk),$1120000
+PER,Evelyn Inga (20K Racewalk),$1000000
+GRE,Christina Papadopoulou (20K Racewalk),$900000
+ART,Anjelina Lohalith (1500m),$690000
+ART,Atalena Gaspore (800m),$600000
